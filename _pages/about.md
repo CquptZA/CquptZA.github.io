@@ -94,7 +94,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 ### 投稿
 - **Ao Zhou** et.al. Efficient Multi-Label Learning through Label-Space Covariance-Guided Batch Selection
 - **Ao Zhou** et.al. Dynamic Distribution-Aware Uncertainty Tracking for Visual Language Model
-- Qiru Li, **Ao Zhou** et.al. Multi-Label Test-Time Adaptation with Bayesian Conditional Priors
+- Qiru Li, **Ao Zhou** (Equal contribution) et.al. Multi-Label Test-Time Adaptation with Bayesian Conditional Priors
 
 ### 专利
 ---
@@ -128,6 +128,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
+
 
 
 

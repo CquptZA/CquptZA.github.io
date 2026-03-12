@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我于2025年在重庆邮电大学获得硕士学位，我的导师是刘彬副教授和王进教授。同年9月我开始在南京大学计算机学院攻读博士学位，我的导师是蒋智威助理教授和顾庆教授。
+我于2025年在重庆邮电大学获得硕士学位，我的导师是[刘彬](https://faculty.cqupt.edu.cn/liubin/zh_CN/index.htm)副教授和[王进](https://faculty.cqupt.edu.cn/wangjin/zh_CN/index.htm)教授。同年9月我开始在南京大学计算机学院[iset group](https://isetnju.github.io/index.html)攻读博士学位，我的导师是[蒋智威](https://zhiweinju.github.io/)助理教授和[顾庆](https://isetnju.github.io/guq/index.html)教授。
 
 I received my master's degree from Chongqing University of Posts and Telecommunications in 2025, under the supervision of Associate Professor Benying Liu and Professor Jin Wang. I am currently pursuing my Ph.D. degree at Nanjing University, advised by Assistant Professor Zhiwei Jiang and Professor Qing Gu.
 
@@ -123,6 +123,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
+
 
 
 

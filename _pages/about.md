@@ -19,7 +19,7 @@ redirect_from:
 
 
 # About Me
-我于2025年在重庆邮电大学获得硕士学位，导师[刘彬](https://faculty.cqupt.edu.cn/liubin/zh_CN/index.htm)副教授和[王进](https://faculty.cqupt.edu.cn/wangjin/zh_CN/index.htm)教授。同年9月我开始在南京大学计算机学院[iset group](https://isetnju.github.io/index.html)攻读博士学位，导师[蒋智威](https://zhiweinju.github.io/)助理教授和[顾庆](https://isetnju.github.io/guq/index.html)教授。
+我于2025年在重庆邮电大学计算机/人工智能学院数据工程与可视计算实验室（小红书账号：DEVC) 获得硕士学位，导师[刘彬](https://faculty.cqupt.edu.cn/liubin/zh_CN/index.htm)副教授和[王进](https://faculty.cqupt.edu.cn/wangjin/zh_CN/index.htm)教授。同年9月我开始在南京大学计算机学院[iset group](https://isetnju.github.io/index.html)攻读博士学位，导师[蒋智威](https://zhiweinju.github.io/)助理教授和[顾庆](https://isetnju.github.io/guq/index.html)教授。
 
 I received my master's degree from Chongqing University of Posts and Telecommunications in 2025, under the supervision of Associate Professor Benying Liu and Professor Jin Wang. I am currently pursuing my Ph.D. degree at Nanjing University, advised by Assistant Professor Zhiwei Jiang and Professor Qing Gu.
 
@@ -132,6 +132,7 @@ If you have opportunities in academia related to my research, please email me an
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
+
 
 
 

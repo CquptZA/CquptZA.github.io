@@ -36,13 +36,13 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 
 # 🎓 学历
 - *2018.09 - 2022.06*, 聊城大学计算机学院, 软件工程, 聊城, 学士学位
-- *2022.09 - 2025.06*, 重庆邮电大学计算机学院, 计算机技术, 重庆, 硕士学位 
+- *2022.09 - 2025.06*, 重庆邮电大学计算机学院/人工智能学院, 计算机技术, 重庆, 硕士学位 
 - *2025.09 - 2029.06*, 南京大学计算机学院, 计算机科学与技术, 南京, 博士研究生
  
 <span class='anchor' id='-lwzl'></span>
 
 # 📰 新闻
-- *2026.02* 我的一篇论文被 *CVPR* 2026接受！
+- *2026.02* 一项工作被 *CVPR* 2026接受！
 - *2026.01* 合作的一项工作被 *TACL* 接受！
 
 # 📝 发表
@@ -86,7 +86,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
   
 #### 合作
 
-- Bin Liu,**Ao Zhou**, Bingkun Wei, Jin Wang, Grigorios Tsoumakas. Oversampling multi-label data based on natural neighbor and label correlation. *Expert Systems with Applications[J]*, 2024. (**CCF-C**)
+- Bin Liu,**Ao Zhou**, Bingkun Wei, Jin Wang, Grigorios Tsoumakas. Oversampling multi-label data based on natural neighbor and label correlation. *Expert Systems with Applications[J]*, 2024. (**CCF-C,JCR-Q1,中科院1区**)
 - Bin Liu, Siqi Wu, Jin Wang, Xin Deng, **Ao Zhou**. HiGraphDTI: Hierarchical Graph Representation Learning for Drug-Target Interaction Prediction. *ECML-PKDD*, 2024. (**CCF-B**)
 - Zechen Sun, Yuyang Sun, Zhaochen Su, Zecheng Tang, Juntao Li, **Ao Zhou**, Wenliang Chen, Min Zhang. Data Foundations of Long-Context Language Models: A Survey. *Transactions of the Association for Computational Linguistics*, 2026. (**CCF-B**)
 
@@ -112,9 +112,9 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 
 # 🏅 荣誉奖项
 
-- *2024* 中国高校大数据挑战赛多源系统故障诊断  排名:7/2271(队伍)
+- *2024* 中国高校大数据挑战赛-多源系统故障诊断  排名:7/2271(队伍)
 - *2024* Kaggle Home Credit - Credit Risk Model Stability  金牌 
-- *2024* 中国高校大数据挑战赛基于气象大数据的自动站实况联合预测  排名: 3/1777(队伍)
+- *2024* 中国高校大数据挑战赛-基于气象大数据的自动站实况联合预测  排名: 3/1777(队伍)
 - *2024* 研究生国家奖学金
 - *2025* 第十九届挑战杯全国大学生课外学术作品竞赛揭榜挂帅专项赛 特等奖
 
@@ -128,6 +128,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
+
 
 
 

@@ -43,6 +43,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 
 # 📰 新闻
 -*2026.02* 我的一篇论文被 *CVPR* 2026接受！
+-*2026.01* 合作的一项工作被 *TACL* 接受！
 
 # 📝 发表
 
@@ -51,7 +52,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	**Ao Zhou**, et.al. Rethinking BCE Loss for Multi-Label Image Recognition with Fine-Tuning. *CVPR*, 2026. (**CCFA**)  
+-	**Ao Zhou**, et.al. Rethinking BCE Loss for Multi-Label Image Recognition with Fine-Tuning. *CVPR*, 2026. (**CCF-A**)  
 
 </div>
 </div>
@@ -60,7 +61,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/mm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	**Ao Zhou**, et.al. Hierarchical Vision-Language Reasoning for Multimodal Multiple-Choice Question Answering. *MM*, 2025. (**CCFA**) 
+-	**Ao Zhou**, et.al. Hierarchical Vision-Language Reasoning for Multimodal Multiple-Choice Question Answering. *MM*, 2025. (**CCF-A**) 
 
 </div>
 </div>
@@ -68,7 +69,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/aaai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	**Ao Zhou**, et.al. Batch Selection for Multi-Label Classification Guided by Uncertainty and Dynamic Label Correlations. *AAAI*, 2025. (**CCFA**)
+-	**Ao Zhou**, et.al. Batch Selection for Multi-Label Classification Guided by Uncertainty and Dynamic Label Correlations. *AAAI*, 2025. (**CCF-A**)
 
 </div>
 </div>
@@ -127,6 +128,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
+
 
 
 

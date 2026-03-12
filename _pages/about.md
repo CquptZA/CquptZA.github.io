@@ -28,7 +28,9 @@ I received my master's degree from Chongqing University of Posts and Telecommuni
 
 My research includes Multimodal Large Language Models and Machine Learning (specifically, Multi-label Learning, Social Media Popularity Prediction, and the Class Imbalance Problem).
 
+如果您对我的研究感兴趣，我很期待能够与您进行邮件交流！
 
+If you have opportunities in academia related to my research, please email me and I would be delighted to connect and explore potential collaborations!
   
 
 
@@ -130,6 +132,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
+
 
 
 

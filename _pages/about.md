@@ -17,14 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我于2025年在重庆邮电大学获得硕士学位，我的导师是刘彬副教授和王进教授。同年9月我开始南京大学攻读博士学位，我的导师是蒋智威助理教授和顾庆教授。
+我于2025年在重庆邮电大学获得硕士学位，我的导师是刘彬副教授和王进教授。同年9月我开始在南京大学计算机学院攻读博士学位，我的导师是蒋智威助理教授和顾庆教授。
 
 I received my master's degree from Chongqing University of Posts and Telecommunications in 2025, under the supervision of Associate Professor Benying Liu and Professor Jin Wang. I am currently pursuing my Ph.D. degree at Nanjing University, advised by Assistant Professor Zhiwei Jiang and Professor Qing Gu.
 
 
-我的研究包括：
-多模态大语言模型
-机器学习（多标签学习，社交媒体流行度预测，类别不平衡问题）
+我的研究包括：多模态大语言模型，机器学习（多标签学习，社交媒体流行度预测，类别不平衡问题）。
+My research includes Multimodal Large Language Models and Machine Learning (specifically, Multi-label Learning, Social Media Popularity Prediction, and the Class Imbalance Problem).
 
 
   
@@ -39,11 +38,14 @@ I received my master's degree from Chongqing University of Posts and Telecommuni
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+# 📰 新闻
+-*2026.02* 我的一篇文论文被 *CVPR* 2026接受！
 
-### 英文
+# 📝 发表
+
+### 论文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/cvpr.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**Ao Zhou**, et.al. Rethinking BCE Loss for Multi-Label Image Recognition with Fine-tuning. *CVPR*, 2026. (CCFA)  
@@ -52,7 +54,7 @@ I received my master's degree from Chongqing University of Posts and Telecommuni
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/mm.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**Ao Zhou**, et.al. Hierarchical Vision-Language Reasoning for Multimodal Multiple-Choice Question Answering. *MM*. 2025. (CCF A) 
@@ -60,7 +62,7 @@ I received my master's degree from Chongqing University of Posts and Telecommuni
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/aaai.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**Ao Zhou**, et.al. Batch Selection for Multi-Label Classification Guided by Uncertainty and Dynamic Label Correlations. *AAAI*. 2025. (CCF A)
@@ -114,6 +116,7 @@ I received my master's degree from Chongqing University of Posts and Telecommuni
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
+
 
 
 

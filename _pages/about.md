@@ -100,8 +100,8 @@ If you have opportunities in academia related to my research, please email me an
 
 ### 专利
 ---
-- 魏柄坤, **周翱**, 刘彬, 黄昌豪, 彭兆阳. 一种基于大数据的系统多故障检测方法: CN202410921177.9[P]. 2025-03-21.
-- 邹沛汐, **周翱**, 刘彬, 朴昌浩, 王进. 一种基于不平衡数据的新能源汽车电池多故障预警方法: CN202411616382.0[P]. 2025-08-26.
+- 一种基于大数据的系统多故障检测方法: CN202410921177.9[P]. 2025-03-21.
+- 一种基于不平衡数据的新能源汽车电池多故障预警方法: CN202411616382.0[P]. 2025-08-26.
 
 
 
@@ -132,6 +132,7 @@ If you have opportunities in academia related to my research, please email me an
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
+
 
 
 

@@ -57,7 +57,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/mm.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/mm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**Ao Zhou**, et.al. Hierarchical Vision-Language Reasoning for Multimodal Multiple-Choice Question Answering. *MM*, 2025. (**CCFA**) 
@@ -127,6 +127,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
+
 
 
 

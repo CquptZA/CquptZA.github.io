@@ -46,7 +46,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 
 ### 论文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/cvpr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**Ao Zhou**, et.al. Rethinking BCE Loss for Multi-Label Image Recognition with Fine-tuning. *CVPR*, 2026. (**CCFA**)  
@@ -55,7 +55,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/mm.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/mm.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**Ao Zhou**, et.al. Hierarchical Vision-Language Reasoning for Multimodal Multiple-Choice Question Answering. *MM*. 2025. (**CCFA**) 
@@ -63,7 +63,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/aaai.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/aaai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**Ao Zhou**, et.al. Batch Selection for Multi-Label Classification Guided by Uncertainty and Dynamic Label Correlations. *AAAI*. 2025. (**CCFA**)
@@ -80,6 +80,8 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 - **Ao Zhou**, Bin Liu, Jin Wang, Grigorios Tsoumakas. Batch Selection for Multi-Label Classification Guided by Uncertainty and Dynamic Label Correlations. *AAAI*, 2025. (**CCF A**)
 - **Ao Zhou**, Bin Liu, Jin Wang, Zhaoyang Peng, Grigorios Tsoumakas. Multi-Label Adaptive Batch Selection by Highlighting Hard and Imbalanced Samples. *ECML-PKDD*, 2024. (**CCF-B**)
 - **Ao Zhou**, Bin Liu, Jin Wang, Kaiwei Sun, Kelin Liu. AEMLO: AutoEncoder-Guided Multi-Label Oversampling. *ECML-PKDD*, 2024. (**CCF-B**)
+  
+#### 合作
 
 - Bin Liu,**Ao Zhou**, Bingkun Wei, Jin Wang, Grigorios Tsoumakas. Oversampling multi-label data based on natural neighbor and label correlation. *Expert Systems with Applications[J]*, 2024. (**CCF-C**)
 - Bin Liu, Siqi Wu, Jin Wang, Xin Deng, **Ao Zhou**. HiGraphDTI: Hierarchical Graph Representation Learning for Drug-Target Interaction Prediction. *ECML-PKDD*, 2024. (**CCF-B**)
@@ -123,6 +125,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
+
 
 
 

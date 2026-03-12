@@ -22,7 +22,8 @@ redirect_from:
 I received my master's degree from Chongqing University of Posts and Telecommunications in 2025, under the supervision of Associate Professor Benying Liu and Professor Jin Wang. I am currently pursuing my Ph.D. degree at Nanjing University, advised by Assistant Professor Zhiwei Jiang and Professor Qing Gu.
 
 
-我的研究包括：多模态大语言模型，机器学习（多标签学习，社交媒体流行度预测，类别不平衡问题）。
+我的研究包括：多模态大语言模型，机器学习（多标签学习，社交媒体流行度预测，类别不平衡问题）等。
+
 My research includes Multimodal Large Language Models and Machine Learning (specifically, Multi-label Learning, Social Media Popularity Prediction, and the Class Imbalance Problem).
 
 
@@ -39,16 +40,16 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 <span class='anchor' id='-lwzl'></span>
 
 # 📰 新闻
--*2026.02* 我的一篇文论文被 *CVPR* 2026接受！
+-*2026.02* 我的一篇论文被 *CVPR* 2026接受！
 
 # 📝 发表
 
 ### 论文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/cvpr.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/cvpr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	**Ao Zhou**, et.al. Rethinking BCE Loss for Multi-Label Image Recognition with Fine-tuning. *CVPR*, 2026. (CCFA)  
+-	**Ao Zhou**, et.al. Rethinking BCE Loss for Multi-Label Image Recognition with Fine-tuning. *CVPR*, 2026. (**CCFA**)  
 
 </div>
 </div>
@@ -57,15 +58,15 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2022</div><img src='images/mm.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	**Ao Zhou**, et.al. Hierarchical Vision-Language Reasoning for Multimodal Multiple-Choice Question Answering. *MM*. 2025. (CCF A) 
+-	**Ao Zhou**, et.al. Hierarchical Vision-Language Reasoning for Multimodal Multiple-Choice Question Answering. *MM*. 2025. (**CCFA**) 
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/aaai.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/aaai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	**Ao Zhou**, et.al. Batch Selection for Multi-Label Classification Guided by Uncertainty and Dynamic Label Correlations. *AAAI*. 2025. (CCF A)
+-	**Ao Zhou**, et.al. Batch Selection for Multi-Label Classification Guided by Uncertainty and Dynamic Label Correlations. *AAAI*. 2025. (**CCFA**)
 
 </div>
 </div>
@@ -73,16 +74,22 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 
 
 
-- **Ao Zhou**, Zhiwei Jiang, Zifeng Cheng, Cong Wang, Yafeng Yin, Shufan Yang, Qing Gu. Rethinking BCE Loss for Multi-Label Image Recognition with Fine-tuning. *CVPR*, 2026. (CCFA)  
-- **Ao Zhou**, Zibo Gu, Tenghao Sun, Jiawen Chen, Mingsheng Tu, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang, Qing Gu. Hierarchical Vision-Language Reasoning for Multimodal Multiple-Choice Question Answering. *MM*. 2025. (CCF A)
-- **Ao Zhou**, Mingsheng Tu, Luping Wang, Tenghao Sun, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang, Qing Gu. Cross-Modal Prototype Augmentation and Dual-Grained Prompt Learning for Social Media Popularity Prediction.  *MM*. 2025. (CCF A)
-- **Ao Zhou**, Bin Liu, Jin Wang, Grigorios Tsoumakas. Batch Selection for Multi-Label Classification Guided by Uncertainty and Dynamic Label Correlations. *AAAI*. 2025. (CCF A)
-- **Ao Zhou**, Bin Liu, Jin Wang, Zhaoyang Peng, Grigorios Tsoumakas. Multi-Label Adaptive Batch Selection by Highlighting Hard and Imbalanced Samples. *ECML-PKDD*. 2024. (CCF-B)
-- **Ao Zhou**, Bin Liu, Jin Wang, Kaiwei Sun, Kelin Liu. AEMLO: AutoEncoder-Guided Multi-Label Oversampling. *ECML-PKDD 2024*. 2024. (CCF-B)
+- **Ao Zhou**, Zhiwei Jiang, Zifeng Cheng, Cong Wang, Yafeng Yin, Shufan Yang, Qing Gu. Rethinking BCE Loss for Multi-Label Image Recognition with Fine-tuning. *CVPR*, 2026. (**CCFA**)  
+- **Ao Zhou**, Zibo Gu, Tenghao Sun, Jiawen Chen, Mingsheng Tu, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang, Qing Gu. Hierarchical Vision-Language Reasoning for Multimodal Multiple-Choice Question Answering. *MM*, 2025. (**CCF A**)
+- **Ao Zhou**, Mingsheng Tu, Luping Wang, Tenghao Sun, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang, Qing Gu. Cross-Modal Prototype Augmentation and Dual-Grained Prompt Learning for Social Media Popularity Prediction.  *MM*, 2025. (**CCF A**)
+- **Ao Zhou**, Bin Liu, Jin Wang, Grigorios Tsoumakas. Batch Selection for Multi-Label Classification Guided by Uncertainty and Dynamic Label Correlations. *AAAI*, 2025. (**CCF A**)
+- **Ao Zhou**, Bin Liu, Jin Wang, Zhaoyang Peng, Grigorios Tsoumakas. Multi-Label Adaptive Batch Selection by Highlighting Hard and Imbalanced Samples. *ECML-PKDD*, 2024. (**CCF-B**)
+- **Ao Zhou**, Bin Liu, Jin Wang, Kaiwei Sun, Kelin Liu. AEMLO: AutoEncoder-Guided Multi-Label Oversampling. *ECML-PKDD*, 2024. (**CCF-B**)
+
+- Bin Liu,**Ao Zhou**, Bingkun Wei, Jin Wang, Grigorios Tsoumakas. Oversampling multi-label data based on natural neighbor and label correlation. *Expert Systems with Applications[J]*, 2024. (**CCF-C**)
+- Bin Liu, Siqi Wu, Jin Wang, Xin Deng, **Ao Zhou**. HiGraphDTI: Hierarchical Graph Representation Learning for Drug-Target Interaction Prediction. *ECML-PKDD*, 2024. (**CCF-B**)
+- Zechen Sun, Yuyang Sun, Zhaochen Su, Zecheng Tang, Juntao Li, **Ao Zhou**, Wenliang Chen, Min Zhang. Data Foundations of Long-Context Language Models: A Survey. *Transactions of the Association for Computational Linguistics*, 2026. (**CCF-B**)
 
 
-
-
+### 投稿
+- **Ao Zhou** et.al. Efficient Multi-Label Learning through Label-Space Covariance-Guided Batch Selection
+- **Ao Zhou** et.al. Dynamic Distribution-Aware Uncertainty Tracking for Visual Language Model
+- Qiru Li, **Ao Zhou** et.al. Multi-Label Test-Time Adaptation with Bayesian Conditional Priors
 
 ### 专利
 ---
@@ -116,6 +123,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
+
 
 
 

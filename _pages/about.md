@@ -51,7 +51,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	**Ao Zhou**, et.al. Rethinking BCE Loss for Multi-Label Image Recognition with Fine-tuning. *CVPR*, 2026. (**CCFA**)  
+-	**Ao Zhou**, et.al. Rethinking BCE Loss for Multi-Label Image Recognition with Fine-Tuning. *CVPR*, 2026. (**CCFA**)  
 
 </div>
 </div>
@@ -127,6 +127,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
+
 
 
 

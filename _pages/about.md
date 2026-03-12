@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我于2025年在重庆邮电大学获得硕士学位，我的导师是[刘彬](https://faculty.cqupt.edu.cn/liubin/zh_CN/index.htm)副教授和[王进](https://faculty.cqupt.edu.cn/wangjin/zh_CN/index.htm)教授。同年9月我开始在南京大学计算机学院[iset group](https://isetnju.github.io/index.html)攻读博士学位，我的导师是[蒋智威](https://zhiweinju.github.io/)助理教授和[顾庆](https://isetnju.github.io/guq/index.html)教授。
+
+# About Me
+我于2025年在重庆邮电大学获得硕士学位，导师[刘彬](https://faculty.cqupt.edu.cn/liubin/zh_CN/index.htm)副教授和[王进](https://faculty.cqupt.edu.cn/wangjin/zh_CN/index.htm)教授。同年9月我开始在南京大学计算机学院[iset group](https://isetnju.github.io/index.html)攻读博士学位，导师[蒋智威](https://zhiweinju.github.io/)助理教授和[顾庆](https://isetnju.github.io/guq/index.html)教授。
 
 I received my master's degree from Chongqing University of Posts and Telecommunications in 2025, under the supervision of Associate Professor Benying Liu and Professor Jin Wang. I am currently pursuing my Ph.D. degree at Nanjing University, advised by Assistant Professor Zhiwei Jiang and Professor Qing Gu.
 
@@ -58,7 +60,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/mm.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	**Ao Zhou**, et.al. Hierarchical Vision-Language Reasoning for Multimodal Multiple-Choice Question Answering. *MM*. 2025. (**CCFA**) 
+-	**Ao Zhou**, et.al. Hierarchical Vision-Language Reasoning for Multimodal Multiple-Choice Question Answering. *MM*, 2025. (**CCFA**) 
 
 </div>
 </div>
@@ -66,7 +68,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/aaai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	**Ao Zhou**, et.al. Batch Selection for Multi-Label Classification Guided by Uncertainty and Dynamic Label Correlations. *AAAI*. 2025. (**CCFA**)
+-	**Ao Zhou**, et.al. Batch Selection for Multi-Label Classification Guided by Uncertainty and Dynamic Label Correlations. *AAAI*, 2025. (**CCFA**)
 
 </div>
 </div>
@@ -111,7 +113,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 
 - *2024* 中国高校大数据挑战赛多源系统故障诊断  排名:7/2271(队伍)
 - *2024* Kaggle Home Credit - Credit Risk Model Stability  金牌 
-- *2023* 中国高校大数据挑战赛基于气象大数据的自动站实况联合预测  排名: 3/1777(队伍)
+- *2024* 中国高校大数据挑战赛基于气象大数据的自动站实况联合预测  排名: 3/1777(队伍)
 - *2024* 研究生国家奖学金
 - *2025* 第十九届挑战杯全国大学生课外学术作品竞赛揭榜挂帅专项赛 特等奖
 
@@ -125,6 +127,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
+
 
 
 

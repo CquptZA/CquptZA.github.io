@@ -42,8 +42,8 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 <span class='anchor' id='-lwzl'></span>
 
 # 📰 新闻
--*2026.02* 我的一篇论文被 *CVPR* 2026接受！
--*2026.01* 合作的一项工作被 *TACL* 接受！
+- *2026.02* 我的一篇论文被 *CVPR* 2026接受！
+- *2026.01* 合作的一项工作被 *TACL* 接受！
 
 # 📝 发表
 
@@ -128,6 +128,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
+
 
 
 

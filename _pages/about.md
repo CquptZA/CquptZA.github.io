@@ -24,9 +24,9 @@ redirect_from:
 I received my master's degree from Chongqing University of Posts and Telecommunications in 2025, under the supervision of Associate Professor Benying Liu and Professor Jin Wang. I am currently pursuing my Ph.D. degree at Nanjing University, advised by Assistant Professor Zhiwei Jiang and Professor Qing Gu.
 
 
-我的研究包括：多模态大语言模型，机器学习（多标签学习，社交媒体流行度预测，类别不平衡问题）等。
+我的研究包括：多模态大语言模型，机器学习（多标签学习，社交媒体流行度预测，类别不平衡问题）等。目前我在关注多模态大语言模型在长文档理解方面的工作。
 
-My research includes Multimodal Large Language Models and Machine Learning (specifically, Multi-label Learning, Social Media Popularity Prediction, and the Class Imbalance Problem).
+My research includes Multimodal Large Language Models and Machine Learning (specifically, Multi-label Learning, Social Media Popularity Prediction, and the Class Imbalance Problem). Currently, I am focusing on the application of Multimodal Large Language Models in long document understanding.
 
 如果您对我的研究感兴趣，我很期待能够与您进行邮件交流！
 
@@ -132,6 +132,7 @@ If you have opportunities in academia related to my research, please email me an
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
+
 
 
 

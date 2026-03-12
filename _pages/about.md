@@ -37,7 +37,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 # 🎓 学历
 - *2018.09 - 2022.06*, 聊城大学计算机学院, 软件工程, 聊城, 学士学位
 - *2022.09 - 2025.06*, 重庆邮电大学计算机学院/人工智能学院, 计算机技术, 重庆, 硕士学位 
-- *2025.09 - 2029.06*, 南京大学计算机学院, 计算机科学与技术, 南京, 博士研究生
+- *2025.09 - 今*, 南京大学计算机学院, 计算机科学与技术, 南京, 博士研究生
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -116,7 +116,9 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 - *2024* Kaggle Home Credit - Credit Risk Model Stability  金牌 
 - *2024* 中国高校大数据挑战赛-基于气象大数据的自动站实况联合预测  排名: 3/1777(队伍)
 - *2024* 研究生国家奖学金
-- *2025* 第十九届挑战杯全国大学生课外学术作品竞赛揭榜挂帅专项赛 特等奖
+- *2024* 第十九届挑战杯全国大学生课外学术作品竞赛揭榜挂帅专项赛 特等奖
+- *2025*《人民日报》国家奖学金获奖学生代表名录
+- *2025* 重庆邮电大学校长荣誉奖-提名
 
 <span class='anchor' id='-xshy'></span>
 
@@ -128,6 +130,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
+
 
 
 

@@ -35,8 +35,8 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2018.09 - 2022.06*, 聊城大学计算机学院 软件工程, 聊城, 学士学位
-- *2022.09 - 2025.06*, 重庆邮电大学计算机学院 计算机技术, 重庆, 硕士学位 
+- *2018.09 - 2022.06*, 聊城大学计算机学院, 软件工程, 聊城, 学士学位
+- *2022.09 - 2025.06*, 重庆邮电大学计算机学院, 计算机技术, 重庆, 硕士学位 
 - *2025.09 - 2029.06*, 南京大学计算机学院, 计算机科学与技术, 南京, 博士研究生
  
 <span class='anchor' id='-lwzl'></span>
@@ -122,11 +122,12 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 # 🏛️ 学术会议
 - *2024.10*, ECML-PKDD 2024 立陶宛维尔纽斯 oral
 - *2025.02*, AAAI 2025 美国费城 poster
-- *2025.10*, MM 2025   爱尔兰都柏林 oral
+- *2025.10*, MM 2025  爱尔兰都柏林 oral
 
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
+
 
 
 

@@ -102,7 +102,7 @@ Additionally, my MBTI is ISFP. My favorite singers are Jay Chou, Stefanie Sun, J
 - **Ao Zhou** et.al. Dynamic Distribution-Aware Uncertainty Tracking for Visual Language Model
 - Qiru Li, **Ao Zhou*** et.al. Multi-Label Test-Time Adaptation with Bayesian Conditional Priors
 
-* Equal contribution, † Corresponding author
+#### * Equal contribution, † Corresponding author
 
 ### 专利
 ---
@@ -138,6 +138,7 @@ Additionally, my MBTI is ISFP. My favorite singers are Jay Chou, Stefanie Sun, J
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
+
 
 
 

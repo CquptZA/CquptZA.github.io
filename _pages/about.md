@@ -34,7 +34,7 @@ If you have opportunities in academia related to my research, please email me an
 
 此外，我的MBTI是ISFP, 我喜欢的歌手是周杰伦，孙燕姿，蔡依林和田馥甄，我也常听泰勒和酷玩乐队。我喜欢足球，偶像是梅西，阿根廷队死忠。我还喜欢玲娜贝儿和奥乐米拉。我很喜欢中国脱口秀，喜欢的演员是呼兰和孟川。理想型女友❤️❤️❤️[周也]([https://faculty.cqupt.edu.cn/liubin/zh_CN/index.htm](https://www.instagram.com/yeahzhoou/))❤️❤️❤️！
 
-Additionally, my MBTI is ISFP. My favorite singers are Jay Chou, Stefanie Sun, Jolin Tsai, and Hebe Tien. I also often listen to Taylor Swift and Coldplay. I love football, and my idol is Messi. I'm a fan of the Argentine (Vamos!). I also really like Linabell and 'Olu Mel. I enjoy listening to Chinese comedy, and my favorite comedians are Hulan and Meng Chuan. Ideal girlfriend Yeah Zhoou！！！
+Additionally, my MBTI is ISFP. My favorite singers are Jay Chou, Stefanie Sun, Jolin Tsai, and Hebe Tien. I also often listen to Taylor Swift and Coldplay. I love football, and my idol is Messi. I'm a fan of the Argentine (Vamos!). I also really like Linabell (Pink fox) and 'Olu Mel (green turtle). I enjoy listening to Chinese comedy, and my favorite comedians are Hulan and Meng Chuan. Ideal girlfriend Yeah Zhoou！！！
   
 
 
@@ -138,6 +138,7 @@ Additionally, my MBTI is ISFP. My favorite singers are Jay Chou, Stefanie Sun, J
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
+
 
 
 

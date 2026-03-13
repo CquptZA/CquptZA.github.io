@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "周翱"
-description              : "iset group phD student"
+description              : "ISET Group"
 repository               : "CquptZA/CquptZA.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -160,6 +160,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 

@@ -80,8 +80,8 @@ If you have opportunities in academia related to my research, please email me an
 
 
 - **Ao Zhou**, Zhiwei Jiang†, Zifeng Cheng, Cong Wang, Yafeng Yin, Shufan Yang, Qing Gu. Rethinking BCE Loss for Multi-Label Image Recognition with Fine-tuning. *CVPR*, 2026. (**CCF-A**)  
-- **Ao Zhou**, Zibo Gu*, Tenghao Sun*, Jiawen Chen*, Mingsheng Tu, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang†, Qing Gu. Hierarchical Vision-Language Reasoning for Multimodal Multiple-Choice Question Answering. *MM*, 2025. (**CCF-A**)
-- **Ao Zhou**, Mingsheng Tu*, Luping Wang, Tenghao Sun, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang†, Qing Gu. Cross-Modal Prototype Augmentation and Dual-Grained Prompt Learning for Social Media Popularity Prediction.  *MM*, 2025. (**CCF-A**)
+- **Ao Zhou**, Zibo Gu*, Tenghao Sun, Jiawen Chen, Mingsheng Tu, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang†, Qing Gu. Hierarchical Vision-Language Reasoning for Multimodal Multiple-Choice Question Answering. *MM*, 2025. (**CCF-A**)
+- **Ao Zhou**, Mingsheng Tu, Luping Wang, Tenghao Sun, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang†, Qing Gu. Cross-Modal Prototype Augmentation and Dual-Grained Prompt Learning for Social Media Popularity Prediction.  *MM*, 2025. (**CCF-A**)
 - **Ao Zhou**, Bin Liu†, Jin Wang, Grigorios Tsoumakas. Batch Selection for Multi-Label Classification Guided by Uncertainty and Dynamic Label Correlations. *AAAI*, 2025. (**CCF-A**)
 - **Ao Zhou**, Bin Liu†, Jin Wang, Zhaoyang Peng, Grigorios Tsoumakas. Multi-Label Adaptive Batch Selection by Highlighting Hard and Imbalanced Samples. *ECML-PKDD*, 2024. (**CCF-B**)
 - **Ao Zhou**, Bin Liu†, Jin Wang, Kaiwei Sun, Kelin Liu. AEMLO: AutoEncoder-Guided Multi-Label Oversampling. *ECML-PKDD*, 2024. (**CCF-B**)
@@ -134,6 +134,7 @@ If you have opportunities in academia related to my research, please email me an
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
+
 
 
 

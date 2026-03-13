@@ -135,9 +135,14 @@ Additionally, my MBTI is ISFP. My favorite singers are Jay Chou, Stefanie Sun, J
 - *2025.02*, AAAI 2025 美国费城 poster
 - *2025.10*, MM 2025  爱尔兰都柏林 oral
 
+<span class='anchor' id='-sgr'></span>
+# 📖 审稿人
+CVPR 2026 AAAI 2026 ICME 2026
+
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
+
 
 
 

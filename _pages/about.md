@@ -32,9 +32,9 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 
 If you have opportunities in academia related to my research, please email me and I would be delighted to connect and explore potential collaborations!
 
-此外，我的MBTI是ISFP, 我喜欢的歌手是周杰伦，孙燕姿，蔡依林和田馥甄，我也常听泰勒和酷玩乐队。我喜欢足球，偶像是梅西，阿根廷队死忠。我还喜欢玲娜贝儿、奥乐米拉以及达菲的其他朋友们。我很喜欢中国脱口秀，喜欢的演员是呼兰和孟川。理想型女友❤️❤️❤️[周也]([https://faculty.cqupt.edu.cn/liubin/zh_CN/index.htm](https://www.instagram.com/yeahzhoou/))❤️❤️❤️！
+此外，我的MBTI是ISFP, 我喜欢的歌手是周杰伦，我也常听，孙燕姿、蔡依林、田馥甄、林俊杰、泰勒和酷玩乐队。我喜欢足球，偶像是梅西，阿根廷队死忠。我还喜欢玲娜贝儿、奥乐米拉以及达菲的其他朋友们。我很喜欢中国脱口秀，喜欢的演员是呼兰和孟川。理想型女友❤️❤️❤️[周也]([https://faculty.cqupt.edu.cn/liubin/zh_CN/index.htm](https://www.instagram.com/yeahzhoou/))❤️❤️❤️！
 
-Additionally, my MBTI is ISFP. My favorite singers are Jay Chou, Stefanie Sun, Jolin Tsai, and Hebe Tien. I also often listen to Taylor Swift and Coldplay. I love football, and my idol is Messi. I'm a fan of the Argentine (Vamos!). I also really like Linabell (Pink fox) 、'Olu Mel (green turtle) and
+Additionally, my MBTI is ISFP. My favorite singer is Jay Chou. I also often listen to Stefanie Sun, Jolin Tsai, Hebe Tien, JJ Lin, Taylor Swift, and Coldplay. I love football, and my idol is Messi. I'm a fan of the Argentine (Vamos!). I also really like Linabell (Pink fox) 、'Olu Mel (green turtle) and
 all Duffy friends. I enjoy listening to Chinese comedy, and my favorite comedians are Hulan and Meng Chuan. Ideal girlfriend Yeah Zhoou！！！
   
 

@@ -42,9 +42,11 @@ all Duffy friends. I enjoy listening to Chinese comedy, and my favorite comedian
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2018.09 - 2022.06*, 聊城大学计算机学院, 软件工程, 聊城, 学士学位
-- *2022.09 - 2025.06*, 重庆邮电大学计算机学院/人工智能学院, 计算机技术, 重庆, 硕士学位 
 - *2025.09 - 今*, 南京大学计算机学院, 计算机科学与技术, 南京, 博士研究生
+- *2022.09 - 2025.06*, 重庆邮电大学计算机学院/人工智能学院, 计算机技术, 重庆, 硕士学位 
+- *2018.09 - 2022.06*, 聊城大学计算机学院, 软件工程, 聊城, 学士学位
+
+
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -92,15 +94,15 @@ all Duffy friends. I enjoy listening to Chinese comedy, and my favorite comedian
 - **Ao Zhou**, Bin Liu†, Jin Wang, Kaiwei Sun, Kelin Liu. AEMLO: AutoEncoder-Guided Multi-Label Oversampling. *ECML-PKDD*, 2024. (**CCF-B**)
   
 #### 合作
-
+- Zechen Sun, Yuyang Sun, Zhaochen Su, Zecheng Tang, Juntao Li, **Ao Zhou**, Wenliang Chen, Min Zhang. Data Foundations of Long-Context Language Models: A Survey. *Transactions of the Association for Computational Linguistics*, 2026. (**CCF-B**)
 - Bin Liu,**Ao Zhou**, Bingkun Wei, Jin Wang, Grigorios Tsoumakas. Oversampling multi-label data based on natural neighbor and label correlation. *Expert Systems with Applications[J]*, 2024. (**CCF-C,JCR-Q1,中科院1区**)
 - Bin Liu, Siqi Wu, Jin Wang, Xin Deng, **Ao Zhou**. HiGraphDTI: Hierarchical Graph Representation Learning for Drug-Target Interaction Prediction. *ECML-PKDD*, 2024. (**CCF-B**)
-- Zechen Sun, Yuyang Sun, Zhaochen Su, Zecheng Tang, Juntao Li, **Ao Zhou**, Wenliang Chen, Min Zhang. Data Foundations of Long-Context Language Models: A Survey. *Transactions of the Association for Computational Linguistics*, 2026. (**CCF-B**)
 
 
 ### 投稿
 - **Ao Zhou** et.al. Efficient Multi-Label Learning through Label-Space Covariance-Guided Batch Selection
 - **Ao Zhou** et.al. Dynamic Distribution-Aware Uncertainty Tracking for Visual Language Model
+- **Ao Zhou** et.al. Beyond Independent UGC: A Sequential Framework for Robust Social Media Popularity Prediction
 - Qiru Li, **Ao Zhou*** et.al. Multi-Label Test-Time Adaptation with Bayesian Conditional Priors
 
 #### * Equal contribution, † Corresponding author

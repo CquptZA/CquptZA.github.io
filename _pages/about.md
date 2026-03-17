@@ -32,7 +32,7 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 
 If you have opportunities in academia related to my research, please email me and I would be delighted to connect and explore potential collaborations!
 
-此外，我的MBTI是ISFP, 我喜欢的歌手是周杰伦，孙燕姿、蔡依林、田馥甄、林俊杰、泰勒和酷玩乐队也常出现在我的歌单中。我的偶像是梅西，所以我也是阿根廷队死忠。我喜欢迪士尼的角色“达菲的其他朋友们”，尤其是玲娜贝儿和奥乐米拉。我很喜欢中国脱口秀，喜欢的演员是呼兰和孟川。理想型女友❤️❤️❤️[周也]([https://faculty.cqupt.edu.cn/liubin/zh_CN/index.htm](https://www.instagram.com/yeahzhoou/))❤️❤️❤️！
+此外，我的MBTI是ISFP, 我喜欢的歌手是周杰伦，孙燕姿、蔡依林、田馥甄、林俊杰、泰勒和酷玩乐队也常出现在我的歌单中。我的偶像是梅西，所以我也是阿根廷队死忠。我喜欢迪士尼的角色“达菲和他的朋友们”，尤其是玲娜贝儿和奥乐米拉。我很喜欢中国脱口秀，喜欢的演员是呼兰和孟川。理想型女友❤️❤️❤️[周也]([https://faculty.cqupt.edu.cn/liubin/zh_CN/index.htm](https://www.instagram.com/yeahzhoou/))❤️❤️❤️！
 
 Additionally, my MBTI is ISFP. My favorite singer is Jay Chou. I also listen to Stefanie Sun, Jolin Tsai, Hebe Tien, JJ Lin, Taylor Swift, and Coldplay. My idol is Messi, so I'm also a fan of the Argentine (Vamos!). I love Disney's "Duffy's friends," especially LinaBell (Pink fox) and 'Olu Mel (Green turtle). I enjoy listening to Chinese comedy, and my favorite comedians are Hulan and Meng Chuan. Ideal girlfriend Yeah Zhoou！！！
   

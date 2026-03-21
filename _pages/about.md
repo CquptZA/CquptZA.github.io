@@ -93,24 +93,24 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 - **Ao Zhou**, Bin Liu†, Jin Wang, Zhaoyang Peng, Grigorios Tsoumakas. Multi-Label Adaptive Batch Selection by Highlighting Hard and Imbalanced Samples. *ECML-PKDD*, 2024. (**CCF-B**)
 - **Ao Zhou**, Bin Liu†, Jin Wang, Kaiwei Sun, Kelin Liu. AEMLO: AutoEncoder-Guided Multi-Label Oversampling. *ECML-PKDD*, 2024. (**CCF-B**)
   
-#### 合作
+#### 其他
 - Zechen Sun, Yuyang Sun, Zhaochen Su, Zecheng Tang, Juntao Li, **Ao Zhou**, Wenliang Chen, Min Zhang. Data Foundations of Long-Context Language Models: A Survey. *Transactions of the Association for Computational Linguistics*, 2026. (**CCF-B**)
 - Bin Liu,**Ao Zhou**, Bingkun Wei, Jin Wang, Grigorios Tsoumakas. Oversampling multi-label data based on natural neighbor and label correlation. *Expert Systems with Applications[J]*, 2024. (**CCF-C,JCR-Q1,中科院1区**)
 - Bin Liu, Siqi Wu, Jin Wang, Xin Deng, **Ao Zhou**. HiGraphDTI: Hierarchical Graph Representation Learning for Drug-Target Interaction Prediction. *ECML-PKDD*, 2024. (**CCF-B**)
 
 
-### 投稿
+### Under review
 - **Ao Zhou** et.al. Efficient Multi-Label Learning through Label-Space Covariance-Guided Batch Selection
 - **Ao Zhou** et.al. Dynamic Distribution-Aware Uncertainty Tracking for Visual Language Model
 - **Ao Zhou** et.al. Beyond Independent UGC: A Sequential Framework for Robust Social Media Popularity Prediction
 - Qiru Li, **Ao Zhou*** et.al. Multi-Label Test-Time Adaptation with Bayesian Conditional Priors
 
-#### * Equal contribution, † Corresponding author
+#### * Equal contribution,  † Corresponding author
 
 ### 专利
 ---
-- 一种基于大数据的系统多故障检测方法: CN202410921177.9[P]. 2025-03-21.
-- 一种基于不平衡数据的新能源汽车电池多故障预警方法: CN202411616382.0[P]. 2025-08-26.
+- 一种基于大数据的系统多故障检测方法: CN202410921177.9[P]. 
+- 一种基于不平衡数据的新能源汽车电池多故障预警方法: CN202411616382.0[P].
 
 
 
@@ -123,20 +123,25 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 
 # 🏅 荣誉奖项
 
+- *2025* 重庆邮电大学校长荣誉奖-提名
+- *2025*《人民日报》国家奖学金获奖学生代表名录
+- *2024* 第十九届挑战杯全国大学生课外学术作品竞赛揭榜挂帅专项赛 特等奖
+- *2024* 研究生国家奖学金
+- *2024* 中国高校大数据挑战赛-基于气象大数据的自动站实况联合预测  排名: 3/1777(队伍)
 - *2024* 中国高校大数据挑战赛-多源系统故障诊断  排名:7/2271(队伍)
 - *2024* Kaggle Home Credit - Credit Risk Model Stability  金牌 
-- *2024* 中国高校大数据挑战赛-基于气象大数据的自动站实况联合预测  排名: 3/1777(队伍)
-- *2024* 研究生国家奖学金
-- *2024* 第十九届挑战杯全国大学生课外学术作品竞赛揭榜挂帅专项赛 特等奖
-- *2025*《人民日报》国家奖学金获奖学生代表名录
-- *2025* 重庆邮电大学校长荣誉奖-提名
+
+
+
+
 
 <span class='anchor' id='-xshy'></span>
 
 # 🏛️ 学术会议
-- *2024.10*, ECML-PKDD 2024 立陶宛维尔纽斯 oral
-- *2025.02*, AAAI 2025 美国费城 poster
-- *2025.10*, MM 2025  爱尔兰都柏林 oral
+
+- *2025.10*, MM 2025  爱尔兰-都柏林 oral
+- *2025.02*, AAAI 2025 美国-费城 poster
+- *2024.10*, ECML-PKDD 2024 立陶宛-维尔纽斯 oral
 
 <span class='anchor' id='-sgr'></span>
 # 📖 审稿人

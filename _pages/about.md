@@ -94,8 +94,8 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 - **Ao Zhou**, Bin Liu†, Jin Wang, Kaiwei Sun, Kelin Liu. AEMLO: AutoEncoder-Guided Multi-Label Oversampling. *ECML-PKDD*, 2024. (**CCF-B**)
   
 #### 其他
-- Zechen Sun, Yuyang Sun, Zhaochen Su, Zecheng Tang, Juntao Li, **Ao Zhou**, Wenliang Chen, Min Zhang. Data Foundations of Long-Context Language Models: A Survey. *Transactions of the Association for Computational Linguistics*, 2026. (**CCF-B**)
-- Bin Liu,**Ao Zhou**, Bingkun Wei, Jin Wang, Grigorios Tsoumakas. Oversampling multi-label data based on natural neighbor and label correlation. *Expert Systems with Applications[J]*, 2024. (**CCF-C,JCR-Q1,中科院1区**)
+- Zechen Sun, Yuyang Sun, Zhaochen Su, Zecheng Tang, Juntao Li, **Ao Zhou**, Wenliang Chen, Min Zhang. Data Foundations of Long-Context Language Models: A Survey. *Transactions of the Association for Computational Linguistics[J] (TACL)*, 2026. (**CCF-B**)
+- Bin Liu,**Ao Zhou**, Bingkun Wei, Jin Wang, Grigorios Tsoumakas. Oversampling multi-label data based on natural neighbor and label correlation. *Expert Systems with Applications[J] (ESWA)*, 2024. (**CCF-C,JCR-Q1,中科院1区**)
 - Bin Liu, Siqi Wu, Jin Wang, Xin Deng, **Ao Zhou**. HiGraphDTI: Hierarchical Graph Representation Learning for Drug-Target Interaction Prediction. *ECML-PKDD*, 2024. (**CCF-B**)
 
 

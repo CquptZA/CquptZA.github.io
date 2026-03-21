@@ -21,7 +21,7 @@ redirect_from:
 # About Me
 我于2025年6月在重庆邮电大学计算机/人工智能学院数据工程与可视计算实验室获得硕士学位，导师是[刘彬](https://faculty.cqupt.edu.cn/liubin/zh_CN/index.htm)副教授和[王进](https://faculty.cqupt.edu.cn/wangjin/zh_CN/index.htm)教授。同年9月我开始在南京大学计算机学院[ISET Group](https://isetnju.github.io/index.html)攻读博士学位，导师是[蒋智威](https://zhiweinju.github.io/)助理教授和[顾庆](https://isetnju.github.io/guq/index.html)教授。
 
-I obtained my Master's degree from the Data Engineering and Visual Computing Laboratory, School of Computer Science and Artificial Intelligence, Chongqing University of Posts and Telecommunications, in June 2025, under the supervision of Associate Professor Benying Liu and Professor Jin Wang. I am currently pursuing my Ph.D. degree at Nanjing University, advised by Assistant Professor Zhiwei Jiang and Professor Qing Gu.
+I obtained my Master's degree from the Data Engineering and Visual Computing Laboratory, School of Computer Science and Artificial Intelligence, Chongqing University of Posts and Telecommunications, in June 2025, under the supervision of Associate Prof. Bin Liu and Prof. Jin Wang. I am currently pursuing my Ph.D. degree at Nanjing University, advised by Assistant Prof. Zhiwei Jiang and Prof. Qing Gu.
 
 
 我的研究包括：多模态大语言模型，机器学习（多标签学习，社交媒体流行度预测，类别不平衡问题）等。目前我在关注多模态大语言模型在长文档理解方面的工作。

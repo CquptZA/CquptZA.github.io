@@ -32,9 +32,9 @@ My research includes Multimodal Large Language Models and Machine Learning (spec
 
 If you have opportunities in academia related to my research, please email me and I would be delighted to connect and explore potential collaborations!
 
-此外，我的MBTI是ISFP, 我喜欢的歌手是周杰伦，孙燕姿、蔡依林、田馥甄、林俊杰、泰勒和酷玩乐队也常出现在我的歌单中。我的偶像是[梅西](https://www.instagram.com/leomessi/)，所以我也是阿根廷队死忠。我喜欢迪士尼的角色“达菲和他的朋友们”，尤其是玲娜贝儿和奥乐米拉。我很喜欢中国脱口秀，喜欢的演员是呼兰和孟川。理想型女友❤️❤️❤️[周也](https://www.instagram.com/yeahzhoou/)❤️❤️❤️！
+此外，我的MBTI是ISFP, 我喜欢的歌手是[周杰伦](https://www.instagram.com/jaychou/)，[孙燕姿](https://www.instagram.com/stefsunyanzi/)、[蔡依林](https://www.instagram.com/jolin_cai/)、[田馥甄](https://www.instagram.com/hebe_tien_0330/)、[林俊杰](https://www.instagram.com/jjlin/)、[泰勒](https://www.instagram.com/taylorswift/)和[酷玩乐队](https://www.instagram.com/coldplay/)也常出现在我的歌单中。我的偶像是[梅西](https://www.instagram.com/leomessi/)，所以我也是阿根廷队死忠。我喜欢迪士尼的角色“达菲和他的朋友们”，尤其是玲娜贝儿和奥乐米拉。我很喜欢中国脱口秀，喜欢的演员是呼兰和孟川。理想型女友❤️❤️❤️[周也](https://www.instagram.com/yeahzhoou/)❤️❤️❤️！
 
-Additionally, my MBTI is ISFP. My favorite singer is Jay Chou. I also listen to Stefanie Sun, Jolin Tsai, Hebe Tien, JJ Lin, Taylor Swift, and Coldplay. My idol is Messi, so I'm also a fan of the Argentine (Vamos!). I love Disney's "Duffy's friends," especially LinaBell (Pink fox) and 'Olu Mel (Green turtle). I enjoy listening to Chinese comedy, and my favorite comedians are Hulan and Meng Chuan. Ideal girlfriend Yeah Zhoou！！！
+Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.instagram.com/jaychou/). I also listen to [Stefanie Sun](https://www.instagram.com/stefsunyanzi/), [Jolin Tsai](https://www.instagram.com/jolin_cai/), [Hebe Tien](https://www.instagram.com/hebe_tien_0330/), [JJ Lin](https://www.instagram.com/jjlin/), [Taylor Swift](https://www.instagram.com/taylorswift/), and [Coldplay](https://www.instagram.com/coldplay/). My idol is [Messi](https://www.instagram.com/leomessi/), so I'm also a fan of the Argentine (Vamos!). I love Disney's "Duffy's friends," especially LinaBell (Pink fox) and 'Olu Mel (Green turtle). I enjoy listening to Chinese comedy, and my favorite comedians are Hulan and Meng Chuan. Ideal girlfriend [Yeah Zhoou](https://www.instagram.com/yeahzhoou/)！！！
   
 
 

@@ -28,9 +28,9 @@ I obtained my Master's degree from the Data Engineering and Visual Computing Lab
 
 My research includes Multimodal Large Language Models and Machine Learning (specifically, Multi-label Learning, Social Media Popularity Prediction, and the Class Imbalance Problem). Currently, I am focusing on applying Multimodal Large Language Models to long document understanding.
 
-如果您对我的研究感兴趣，我很期待能够与您进行邮件交流！
+如果您对我的研究感兴趣，我很期待能够与您进行邮件交流！email za[AT]smail.nju.edu.cn.
 
-If you have opportunities in academia related to my research, please email me, and I would be delighted to connect and explore potential collaborations!
+If you have opportunities in academia related to my research, please email me, and I would be delighted to connect and explore potential collaborations! email za[AT]smail.nju.edu.cn.
 
 此外，我的MBTI是ISFP, 我喜欢的歌手是[周杰伦](https://www.instagram.com/jaychou/)，[孙燕姿](https://www.instagram.com/stefsunyanzi/)、[蔡依林](https://www.instagram.com/jolin_cai/)、[田馥甄](https://www.instagram.com/hebe_tien_0330/)、[林俊杰](https://www.instagram.com/jjlin/)、[泰勒](https://www.instagram.com/taylorswift/)和[酷玩乐队](https://www.instagram.com/coldplay/)也常出现在我的歌单中。我的偶像是[梅西](https://www.instagram.com/leomessi/)，所以我也是阿根廷队死忠。我喜欢迪士尼的角色“达菲和他的朋友们”，尤其是玲娜贝儿和奥乐米拉。我很喜欢中国脱口秀，喜欢的演员是呼兰和孟川。理想型女友❤️❤️❤️[周也](https://www.instagram.com/yeahzhoou/)❤️❤️❤️！
 

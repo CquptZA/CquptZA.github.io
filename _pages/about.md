@@ -28,7 +28,7 @@ I obtained my Master's degree from the Data Engineering and Visual Computing Lab
 
 My research includes Multimodal Large Language Models and Machine Learning (specifically, Multi-label Learning, Social Media Popularity Prediction, and the Class Imbalance Problem). Currently, I am focusing on applying Multimodal Large Language Models to long document understanding.
 
-如果您对我的研究感兴趣，我很期待能够与您进行邮件交流！email za[AT]smail.nju.edu.cn.
+如果您对我的研究感兴趣，我很期待能够与您进行邮件交流！邮箱: za[AT]smail.nju.edu.cn.
 
 If you have opportunities in academia related to my research, please email me, and I would be delighted to connect and explore potential collaborations! email za[AT]smail.nju.edu.cn.
 
@@ -125,11 +125,11 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 
 - *2025* 重庆邮电大学校长荣誉奖-提名
 - *2025*《人民日报》国家奖学金获奖学生代表名录
-- *2024* 第十九届挑战杯全国大学生课外学术作品竞赛揭榜挂帅专项赛 特等奖
+- *2024* 第十九届挑战杯全国大学生课外学术作品竞赛揭榜挂帅专项赛 特等奖 (Top 5)
 - *2024* 研究生国家奖学金
 - *2024* 中国高校大数据挑战赛-基于气象大数据的自动站实况联合预测  排名: 3/1777(队伍)
 - *2024* 中国高校大数据挑战赛-多源系统故障诊断  排名:7/2271(队伍)
-- *2024* Kaggle Home Credit - Credit Risk Model Stability  金牌 
+- *2024* Kaggle Home Credit - Credit Risk Model Stability  金牌 5/3856(队伍)
 
 
 

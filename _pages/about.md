@@ -50,14 +50,14 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📰 新闻
+# 📰 新闻 News
 - *2026.02* 一项工作被 *CVPR* 2026接受！
 - *2026.01* 合作的一项工作被 *TACL* 接受！
 
-# 📝 发表
+# 📝 发表 Pub
 
-### 论文
----
+#### First author
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -82,7 +82,7 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 
 </div>
 </div>
-
+-->
 
 
 
@@ -93,7 +93,7 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 - **Ao Zhou**, Bin Liu†, Jin Wang, Zhaoyang Peng, Grigorios Tsoumakas. Multi-Label Adaptive Batch Selection by Highlighting Hard and Imbalanced Samples. *ECML-PKDD*, 2024. (**CCF-B**)
 - **Ao Zhou**, Bin Liu†, Jin Wang, Kaiwei Sun, Kelin Liu. AEMLO: AutoEncoder-Guided Multi-Label Oversampling. *ECML-PKDD*, 2024. (**CCF-B**)
   
-#### 其他
+#### Other
 - Zechen Sun, Yuyang Sun, Zhaochen Su, Zecheng Tang, Juntao Li, **Ao Zhou**, Wenliang Chen, Min Zhang. Data Foundations of Long-Context Language Models: A Survey. *Transactions of the Association for Computational Linguistics[J] (TACL)*, 2026. (**CCF-B**)
 - Bin Liu,**Ao Zhou**, Bingkun Wei, Jin Wang, Grigorios Tsoumakas. Oversampling multi-label data based on natural neighbor and label correlation. *Expert Systems with Applications[J] (ESWA)*, 2024. (**CCF-C,JCR-Q1,中科院1区**)
 - Bin Liu, Siqi Wu, Jin Wang, Xin Deng, **Ao Zhou**. HiGraphDTI: Hierarchical Graph Representation Learning for Drug-Target Interaction Prediction. *ECML-PKDD*, 2024. (**CCF-B**)
@@ -107,11 +107,12 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 
 #### * Equal contribution,  † Corresponding author
 
+<!-- 
 ### 专利
 ---
 - 一种基于大数据的系统多故障检测方法: CN202410921177.9[P]. 
 - 一种基于不平衡数据的新能源汽车电池多故障预警方法: CN202411616382.0[P].
-
+-->
 
 
 

@@ -94,7 +94,11 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 - **Ao Zhou**, Bin Liu†, Jin Wang, Kaiwei Sun, Kelin Liu. AEMLO: AutoEncoder-Guided Multi-Label Oversampling. *ECML-PKDD*, 2024. (**CCF-B**)
   
 #### Other
-- Zechen Sun, Yuyang Sun, Zhaochen Su, Zecheng Tang, Juntao Li, **Ao Zhou**, Wenliang Chen, Min Zhang. Data Foundations of Long-Context Language Models: A Survey. *Transactions of the Association for Computational Linguistics[J] (TACL)*, 2026. (**CCF-B**)
+
+ 
+- Shufan Yang, Zifeng Cheng, Zhiwei Jiang, Qingfeng Qi, Yafeng Yin, Cong Wang,  **Ao Zhou**, Qing Gu. AEA: Adaptive Expert Allocation Improves Sentence Embeddings from Mixture-of-Experts LLM. *ACL*, 2026. (**CCF-A**)
+- Zifeng Cheng, Lingyun Qian, Zhiwei Jiang, Cong Wang, Yafeng Yin, Fei Shen, **Ao Zhou**, Qing Gu. Focusing Condition: Inference-Time Self-Contrastive Steering Elicits Better Conditional Text Embeddings in LLMs. *ACL*, 2026. (**CCF-A**)
+- Zechen Sun, Yuyang Sun, Zhaochen Su, Zecheng Tang, Juntao Li, **Ao Zhou**, Wenliang Chen, Min Zhang. Data Foundations of Long-Context Language Models: A Survey, *Transactions of the Association for Computational Linguistics[J] (TACL)*, 2026. (**CCF-B**)
 - Bin Liu,**Ao Zhou**, Bingkun Wei, Jin Wang, Grigorios Tsoumakas. Oversampling multi-label data based on natural neighbor and label correlation. *Expert Systems with Applications[J] (ESWA)*, 2024. (**CCF-C,JCR-Q1,中科院1区**)
 - Bin Liu, Siqi Wu, Jin Wang, Xin Deng, **Ao Zhou**. HiGraphDTI: Hierarchical Graph Representation Learning for Drug-Target Interaction Prediction. *ECML-PKDD*, 2024. (**CCF-B**)
 

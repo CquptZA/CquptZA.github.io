@@ -51,6 +51,7 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 <span class='anchor' id='-lwzl'></span>
 
 # 📰 新闻 News
+- *2026.04* 合作的两项工作被 *ACL* 2026接受！
 - *2026.02* 一项工作被 *CVPR* 2026接受！
 - *2026.01* 合作的一项工作被 *TACL* 接受！
 

@@ -51,13 +51,14 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 <span class='anchor' id='-lwzl'></span>
 
 # 📰 新闻 News
+- *2026.05* 一项工作被 *ICML* 2026接受！
 - *2026.04* 合作的两项工作被 *ACL* 2026接受！
 - *2026.02* 一项工作被 *CVPR* 2026接受！
 - *2026.01* 合作的一项工作被 *TACL* 接受！
 
 # 📝 发表 Pub
 
-#### First author
+#### Select
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -86,15 +87,17 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 -->
 
 
-
+- **[c7]** Qiru Li, **Ao Zhou*** et.al. Multi-Label Test-Time Adaptation with Bayesian Conditional Priors. *ICML*, 2026. (**CCF-A**)  
 - **[c6]** **Ao Zhou**, Zhiwei Jiang†, Zifeng Cheng, Cong Wang, Yafeng Yin, Shufan Yang, Qing Gu. Rethinking BCE Loss for Multi-Label Image Recognition with Fine-tuning. *CVPR*, 2026. (**CCF-A**)  
 - **[c5]** **Ao Zhou**, Zibo Gu, Tenghao Sun, Jiawen Chen, Mingsheng Tu, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang†, Qing Gu. Hierarchical Vision-Language Reasoning for Multimodal Multiple-Choice Question Answering. *MM*, 2025. (**CCF-A**)
 - **[c4]** **Ao Zhou**, Mingsheng Tu, Luping Wang, Tenghao Sun, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang†, Qing Gu. Cross-Modal Prototype Augmentation and Dual-Grained Prompt Learning for Social Media Popularity Prediction.  *MM*, 2025. (**CCF-A**)
 - **[c3]** **Ao Zhou**, Bin Liu†, Jin Wang, Grigorios Tsoumakas. Batch Selection for Multi-Label Classification Guided by Uncertainty and Dynamic Label Correlations. *AAAI*, 2025. (**CCF-A**)
 - **[c2]** **Ao Zhou**, Bin Liu†, Jin Wang, Zhaoyang Peng, Grigorios Tsoumakas. Multi-Label Adaptive Batch Selection by Highlighting Hard and Imbalanced Samples. *ECML-PKDD*, 2024. (**CCF-B**)
 - **[c1]** **Ao Zhou**, Bin Liu†, Jin Wang, Kaiwei Sun, Kelin Liu. AEMLO: AutoEncoder-Guided Multi-Label Oversampling. *ECML-PKDD*, 2024. (**CCF-B**)
-  
-#### Other
+
+#### * Equal contribution,  † Corresponding author
+
+#### All
 
  
 - Shufan Yang, Zifeng Cheng, Zhiwei Jiang, Qingfeng Qi, Yafeng Yin, Cong Wang,  **Ao Zhou**, Qing Gu. AEA: Adaptive Expert Allocation Improves Sentence Embeddings from Mixture-of-Experts LLM. *ACL*, 2026. (**CCF-A**)
@@ -104,13 +107,13 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 - Bin Liu, Siqi Wu, Jin Wang, Xin Deng, **Ao Zhou**. HiGraphDTI: Hierarchical Graph Representation Learning for Drug-Target Interaction Prediction. *ECML-PKDD*, 2024. (**CCF-B**)
 
 
-### Under review
+### Preprint
 - **Ao Zhou** et.al. Efficient Multi-Label Learning through Label-Space Covariance-Guided Batch Selection
 - **Ao Zhou** et.al. Dynamic Distribution-Aware Uncertainty Tracking for Visual Language Model
 - **Ao Zhou** et.al. Beyond Independent UGC: A Sequential Framework for Robust Social Media Popularity Prediction
-- Qiru Li, **Ao Zhou*** et.al. Multi-Label Test-Time Adaptation with Bayesian Conditional Priors
+- 
 
-#### * Equal contribution,  † Corresponding author
+
 
 <!-- 
 ### 专利

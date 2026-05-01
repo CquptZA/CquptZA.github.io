@@ -87,7 +87,7 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 -->
 
 
-- **[c7]** Qiru Li, **Ao Zhou*** et.al. Multi-Label Test-Time Adaptation with Bayesian Conditional Priors. *ICML*, 2026. (**CCF-A**)  
+- **[c7]** Qiru Li, **Ao Zhou***, Zhiwei Jiang†, Zifeng Cheng, Cong Wang, Yafeng Yin, Qing Gu. Multi-Label Test-Time Adaptation with Bayesian Conditional Priors. *ICML*, 2026. (**CCF-A**)  
 - **[c6]** **Ao Zhou**, Zhiwei Jiang†, Zifeng Cheng, Cong Wang, Yafeng Yin, Shufan Yang, Qing Gu. Rethinking BCE Loss for Multi-Label Image Recognition with Fine-tuning. *CVPR*, 2026. (**CCF-A**)  
 - **[c5]** **Ao Zhou**, Zibo Gu, Tenghao Sun, Jiawen Chen, Mingsheng Tu, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang†, Qing Gu. Hierarchical Vision-Language Reasoning for Multimodal Multiple-Choice Question Answering. *MM*, 2025. (**CCF-A**)
 - **[c4]** **Ao Zhou**, Mingsheng Tu, Luping Wang, Tenghao Sun, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang†, Qing Gu. Cross-Modal Prototype Augmentation and Dual-Grained Prompt Learning for Social Media Popularity Prediction.  *MM*, 2025. (**CCF-A**)
@@ -132,13 +132,12 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 
 # 🏅 荣誉奖项
 
-- *2025* 重庆邮电大学校长荣誉奖-提名
 - *2025*《人民日报》国家奖学金获奖学生代表名录
 - *2024* 第十九届挑战杯全国大学生课外学术作品竞赛揭榜挂帅专项赛 特等奖 (Top 5 team)
-- *2024* 研究生国家奖学金 rank 1
-- *2024* 中国高校大数据挑战赛-基于气象大数据的自动站实况联合预测  排名: 3/1777 (team)
-- *2024* Kaggle Home Credit - Credit Risk Model Stability  金牌 5/3856 (team)
-- *2023* 中国高校大数据挑战赛-多源系统故障诊断  排名:7/2271 (team)
+- *2024* 研究生国家奖学金 (rank 1)
+- *2024* 中国高校大数据挑战赛-基于气象大数据的自动站实况联合预测  (rank: 3/1777 team)
+- *2024* Kaggle Home Credit - Credit Risk Model Stability  (rank: 5/3856 team, gold medal)
+- *2023* 中国高校大数据挑战赛-多源系统故障诊断  (rank:7/2271 team)
 
 
 

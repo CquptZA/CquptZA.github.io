@@ -86,13 +86,13 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 </div>
 -->
 
-- **[c7]** Qiru Li, **Ao Zhou**<sup>*</sup>, Zhiwei Jiang<sup>†</sup>, Zifeng Cheng, Cong Wang, Yafeng Yin, Qing Gu. Multi-Label Test-Time Adaptation with Bayesian Conditional Priors. *ICML*, 2026. (CCF-A)
-- **[c6]** **Ao Zhou**, Zhiwei Jiang<sup>†</sup>, Zifeng Cheng, Cong Wang, Yafeng Yin, Shufan Yang, Qing Gu. Rethinking BCE Loss for Multi-Label Image Recognition with Fine-tuning. *CVPR*, 2026. (CCF-A)
-- **[c5]** **Ao Zhou**<sup>*</sup>, Zibo Gu<sup>*</sup>, Tenghao Sun<sup>*</sup>, Jiawen Chen<sup>*</sup>, Mingsheng Tu, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang<sup>†</sup>, Qing Gu. Hierarchical Vision-Language Reasoning for Multimodal Multiple-Choice Question Answering. *MM*, 2025. (CCF-A)
-- **[c4]** **Ao Zhou**<sup>*</sup>, Mingsheng Tu<sup>*</sup>, Luping Wang, Tenghao Sun, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang<sup>†</sup>, Qing Gu. Cross-Modal Prototype Augmentation and Dual-Grained Prompt Learning for Social Media Popularity Prediction. *MM*, 2025. (CCF-A)
-- **[c3]** **Ao Zhou**, Bin Liu<sup>†</sup>, Jin Wang, Grigorios Tsoumakas. Batch Selection for Multi-Label Classification Guided by Uncertainty and Dynamic Label Correlations. *AAAI*, 2025. (CCF-A)
-- **[c2]** **Ao Zhou**, Bin Liu<sup>†</sup>, Jin Wang, Zhaoyang Peng, Grigorios Tsoumakas. Multi-Label Adaptive Batch Selection by Highlighting Hard and Imbalanced Samples. *ECML-PKDD*, 2024. (CCF-B)
-- **[c1]** **Ao Zhou**, Bin Liu<sup>†</sup>, Jin Wang, Kaiwei Sun, Kelin Liu. AEMLO: AutoEncoder-Guided Multi-Label Oversampling. *ECML-PKDD*, 2024. (CCF-B)
+- **[c7]** Qiru Li, **Ao Zhou**<sup>*</sup>, Zhiwei Jiang<sup>†</sup>, Zifeng Cheng, Cong Wang, Yafeng Yin, Qing Gu. Multi-Label Test-Time Adaptation with Bayesian Conditional Priors. <span style="background-color: #FFCCCC;">*ICML*, 2026. (CCF-A)</span>
+- **[c6]** **Ao Zhou**, Zhiwei Jiang<sup>†</sup>, Zifeng Cheng, Cong Wang, Yafeng Yin, Shufan Yang, Qing Gu. Rethinking BCE Loss for Multi-Label Image Recognition with Fine-tuning. <span style="background-color: #FFCCCC;">*CVPR*, 2026. (CCF-A)</span>
+- **[c5]** **Ao Zhou**<sup>*</sup>, Zibo Gu<sup>*</sup>, Tenghao Sun<sup>*</sup>, Jiawen Chen<sup>*</sup>, Mingsheng Tu, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang<sup>†</sup>, Qing Gu. Hierarchical Vision-Language Reasoning for Multimodal Multiple-Choice Question Answering. <span style="background-color: #FFCCCC;">*MM*, 2025. (CCF-A)</span>
+- **[c4]** **Ao Zhou**<sup>*</sup>, Mingsheng Tu<sup>*</sup>, Luping Wang, Tenghao Sun, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang<sup>†</sup>, Qing Gu. Cross-Modal Prototype Augmentation and Dual-Grained Prompt Learning for Social Media Popularity Prediction. <span style="background-color: #FFCCCC;">*MM*, 2025. (CCF-A)</span>
+- **[c3]** **Ao Zhou**, Bin Liu<sup>†</sup>, Jin Wang, Grigorios Tsoumakas. Batch Selection for Multi-Label Classification Guided by Uncertainty and Dynamic Label Correlations. <span style="background-color: #FFCCCC;">*AAAI*, 2025. (CCF-A)</span>
+- **[c2]** **Ao Zhou**, Bin Liu<sup>†</sup>, Jin Wang, Zhaoyang Peng, Grigorios Tsoumakas. Multi-Label Adaptive Batch Selection by Highlighting Hard and Imbalanced Samples. <span style="background-color: #FFFF99;">*ECML-PKDD*, 2024. (CCF-B)</span>
+- **[c1]** **Ao Zhou**, Bin Liu<sup>†</sup>, Jin Wang, Kaiwei Sun, Kelin Liu. AEMLO: AutoEncoder-Guided Multi-Label Oversampling. <span style="background-color: #FFFF99;">*ECML-PKDD*, 2024. (CCF-B)</span>
 
 ####  <sup>‡</sup> Equal contribution &nbsp;&nbsp; <sup>†</sup> Corresponding author
 

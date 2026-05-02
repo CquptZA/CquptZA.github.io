@@ -50,15 +50,15 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📰 新闻 News
-- *2026.05* 一项工作被 *ICML* 2026接受！
-- *2026.04* 合作的两项工作被 *ACL* 2026接受！
-- *2026.02* 一项工作被 *CVPR* 2026接受！
-- *2026.01* 合作的一项工作被 *TACL* 接受！
+# 📰 News
+- *2026.05* 🎉🎉 一项工作被 *ICML* 2026接受！
+- *2026.04* 🎉🎉 合作的两项工作被 *ACL* 2026接受！
+- *2026.02* 🎉🎉 一项工作被 *CVPR* 2026接受！
+- *2026.01* 🎉🎉 合作的一项工作被 *TACL* 接受！
 
-# 📝 发表 Pub
+# 📝 Pub
 
-#### Select
+#### Conference
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/cvpr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -87,48 +87,53 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 -->
 
 
-- **[C7]** Qiru Li, **Ao Zhou**\*, Zhiwei Jiang†, Zifeng Cheng, Cong Wang, Yafeng Yin, Qing Gu.  
-  *Multi-Label Test-Time Adaptation with Bayesian Conditional Priors.*  
-  🟥 ICML 2026 (CCF-A)
 
-- **[C6]** **Ao Zhou**, Zhiwei Jiang†, Zifeng Cheng, Cong Wang, Yafeng Yin, Shufan Yang, Qing Gu.  
-  *Rethinking BCE Loss for Multi-Label Image Recognition with Fine-tuning.*  
-  🟥 CVPR 2026 (CCF-A)
+---
 
-- **[C5]** **Ao Zhou**\*, Zibo Gu\*, Tenghao Sun\*, Jiawen Chen\*, Mingsheng Tu, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang†, Qing Gu.  
-  *Hierarchical Vision-Language Reasoning for Multimodal Multiple-Choice Question Answering.*  
-  🟥 ACM MM 2025 (CCF-A)
+* **[C8]** Qiru Li, **Ao Zhou***, Zhiwei Jiang†, Zifeng Cheng, Cong Wang, Yafeng Yin, Qing Gu.
+  *Multi-Label Test-Time Adaptation with Bayesian Conditional Priors.* ICML 2026 (**CCF-A**)
 
-- **[C4]** **Ao Zhou**\*, Mingsheng Tu\*, Luping Wang, Tenghao Sun, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang†, Qing Gu.  
-  *Cross-Modal Prototype Augmentation and Dual-Grained Prompt Learning for Social Media Popularity Prediction.*  
-  🟥 ACM MM 2025 (CCF-A)
+* **[C7]** Shufan Yang, Zifeng Cheng, Zhiwei Jiang, Qingfeng Qi, Yafeng Yin, Cong Wang, **Ao Zhou**, Qing Gu.
+  *AEA: Adaptive Expert Allocation Improves Sentence Embeddings from Mixture-of-Experts LLM.* ACL 2026 (**CCF-A**)
 
-- **[C3]** **Ao Zhou**, Bin Liu†, Jin Wang, Grigorios Tsoumakas.  
-  *Batch Selection for Multi-Label Classification Guided by Uncertainty and Dynamic Label Correlations.*  
-  🟥 AAAI 2025 (CCF-A)
+* **[C6]** Zifeng Cheng, Lingyun Qian, Zhiwei Jiang, Cong Wang, Yafeng Yin, Fei Shen, **Ao Zhou**, Qing Gu.
+  *Focusing Condition: Inference-Time Self-Contrastive Steering Elicits Better Conditional Text Embeddings in LLMs.* ACL 2026 (**CCF-A**)
 
-- **[C2]** **Ao Zhou**, Bin Liu†, Jin Wang, Zhaoyang Peng, Grigorios Tsoumakas.  
-  *Multi-Label Adaptive Batch Selection by Highlighting Hard and Imbalanced Samples.*  
-  🟨 ECML-PKDD 2024 (CCF-B)
+* **[C6]** **Ao Zhou**, Zhiwei Jiang†, Zifeng Cheng, Cong Wang, Yafeng Yin, Shufan Yang, Qing Gu.
+  *Rethinking BCE Loss for Multi-Label Image Recognition with Fine-tuning.* CVPR 2026 (**CCF-A**)
 
-- **[C1]** **Ao Zhou**, Bin Liu†, Jin Wang, Kaiwei Sun, Kelin Liu.  
-  *AEMLO: AutoEncoder-Guided Multi-Label Oversampling.*  
-  🟨 ECML-PKDD 2024 (CCF-B)
+* **[C5]** **Ao Zhou***, Zibo Gu*, Tenghao Sun*, Jiawen Chen*, Mingsheng Tu, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang†, Qing Gu.
+  *Hierarchical Vision-Language Reasoning for Multimodal Multiple-Choice Question Answering.* ACM MM 2025 (**CCF-A**)
 
+* **[C4]** **Ao Zhou***, Mingsheng Tu*, Luping Wang, Tenghao Sun, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang†, Qing Gu.
+  *Cross-Modal Prototype Augmentation and Dual-Grained Prompt Learning for Social Media Popularity Prediction.* ACM MM 2025 (**CCF-A**)
+
+* **[C3]** **Ao Zhou**, Bin Liu†, Jin Wang, Grigorios Tsoumakas.
+  *Batch Selection for Multi-Label Classification Guided by Uncertainty and Dynamic Label Correlations.* AAAI 2025 (**CCF-A**)
+
+* **[C2]** **Ao Zhou**, Bin Liu†, Jin Wang, Zhaoyang Peng, Grigorios Tsoumakas.
+  *Multi-Label Adaptive Batch Selection by Highlighting Hard and Imbalanced Samples.* ECML-PKDD 2024 (**CCF-B**)
+
+* **[C1]** **Ao Zhou**, Bin Liu†, Jin Wang, Kaiwei Sun, Kelin Liu.
+  *AEMLO: AutoEncoder-Guided Multi-Label Oversampling.* ECML-PKDD 2024 (**CCF-B**)
+
+---
+
+### Journal
+
+- **[J2]** Zechen Sun, Yuyang Sun, Zhaochen Su, Zecheng Tang, Juntao Li, **Ao Zhou**, Wenliang Chen, Min Zhang.
+- Data Foundations of Long-Context Language Models: A Survey, *Transactions of the Association for Computational Linguistics[J] (TACL)*, 2026. (**CCF-B**)
+  
+- **[J1]** Bin Liu,**Ao Zhou**, Bingkun Wei, Jin Wang, Grigorios Tsoumakas. Oversampling multi-label data based on natural neighbor and label correlation.
+- *Expert Systems with Applications[J] (ESWA)*, 2024. (**CCF-C,JCR-Q1,中科院1区**)
+
+
+  
 ####  <sup>‡</sup> Equal contribution &nbsp;&nbsp; <sup>†</sup> Corresponding author
 
 
 
----
 
-
-#### All
-
-- Shufan Yang, Zifeng Cheng, Zhiwei Jiang, Qingfeng Qi, Yafeng Yin, Cong Wang,  **Ao Zhou**, Qing Gu. AEA: Adaptive Expert Allocation Improves Sentence Embeddings from Mixture-of-Experts LLM. *ACL*, 2026. (**CCF-A**)
-- Zifeng Cheng, Lingyun Qian, Zhiwei Jiang, Cong Wang, Yafeng Yin, Fei Shen, **Ao Zhou**, Qing Gu. Focusing Condition: Inference-Time Self-Contrastive Steering Elicits Better Conditional Text Embeddings in LLMs. *ACL*, 2026. (**CCF-A**)
-- Zechen Sun, Yuyang Sun, Zhaochen Su, Zecheng Tang, Juntao Li, **Ao Zhou**, Wenliang Chen, Min Zhang. Data Foundations of Long-Context Language Models: A Survey, *Transactions of the Association for Computational Linguistics[J] (TACL)*, 2026. (**CCF-B**)
-- Bin Liu,**Ao Zhou**, Bingkun Wei, Jin Wang, Grigorios Tsoumakas. Oversampling multi-label data based on natural neighbor and label correlation. *Expert Systems with Applications[J] (ESWA)*, 2024. (**CCF-C,JCR-Q1,中科院1区**)
-- Bin Liu, Siqi Wu, Jin Wang, Xin Deng, **Ao Zhou**. HiGraphDTI: Hierarchical Graph Representation Learning for Drug-Target Interaction Prediction. *ECML-PKDD*, 2024. (**CCF-B**)
 
 
 ### Preprint

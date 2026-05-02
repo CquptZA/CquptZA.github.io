@@ -51,10 +51,11 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 <span class='anchor' id='-lwzl'></span>
 
 # 📰 News
-- *2026.05* 🎉🎉 一项工作被 *ICML* 2026接受！
-- *2026.04* 🎉🎉 合作的两项工作被 *ACL* 2026接受！
-- *2026.02* 🎉🎉 一项工作被 *CVPR* 2026接受！
-- *2026.01* 🎉🎉 合作的一项工作被 *TACL* 接受！
+
+- *2026.05* 🎉🎉 One paper accepted to *ICML* 2026!
+- *2026.04* 🎉🎉 Two collaborative works accepted to *ACL* 2026!
+- *2026.02* 🎉🎉 One paper accepted to *CVPR* 2026!
+- *2026.01* 🎉🎉 One collaborative work accepted to *TACL*!
 
 # 📝 Pub
 
@@ -129,10 +130,8 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 
 
   
-####  <sup>‡</sup> Equal contribution &nbsp;&nbsp; <sup>†</sup> Corresponding author
 
-
-
+---
 
 
 
@@ -140,9 +139,9 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 - **Ao Zhou** et.al. Efficient Multi-Label Learning through Label-Space Covariance-Guided Batch Selection
 - **Ao Zhou** et.al. Dynamic Distribution-Aware Uncertainty Tracking for Visual Language Model
 - **Ao Zhou** et.al. Beyond Independent UGC: A Sequential Framework for Robust Social Media Popularity Prediction
-- 
 
-
+---
+####  <sup>‡</sup> Equal contribution &nbsp;&nbsp; <sup>†</sup> Corresponding author
 
 <!-- 
 ### 专利

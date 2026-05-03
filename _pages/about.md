@@ -91,31 +91,31 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 
 ---
 
-* **[C9]** Qiru Li, **Ao Zhou** *, Zhiwei Jiang†, Zifeng Cheng, Cong Wang, Yafeng Yin, Qing Gu.
+* **[C9]** Qiru Li, **Ao Zhou**†, Zhiwei Jiang‡, Zifeng Cheng, Cong Wang, Yafeng Yin, Qing Gu.
   *Multi-Label Test-Time Adaptation with Bayesian Conditional Priors.* ICML 2026 (**CCF-A**)
 
-* **[C8]** Shufan Yang, Zifeng Cheng, Zhiwei Jiang, Qingfeng Qi, Yafeng Yin, Cong Wang, **Ao Zhou**, Qing Gu.
+* **[C8]** Shufan Yang, Zifeng Cheng‡, Zhiwei Jiang‡, Qingfeng Qi, Yafeng Yin, Cong Wang, **Ao Zhou**, Qing Gu.
   *AEA: Adaptive Expert Allocation Improves Sentence Embeddings from Mixture-of-Experts LLM.* ACL 2026 (**CCF-A**)
 
-* **[C7]** Zifeng Cheng, Lingyun Qian, Zhiwei Jiang, Cong Wang, Yafeng Yin, Fei Shen, **Ao Zhou**, Qing Gu.
+* **[C7]** Zifeng Cheng, Lingyun Qian, Zhiwei Jiang‡, Cong Wang, Yafeng Yin, Fei Shen, **Ao Zhou**, Qing Gu.
   *Focusing Condition: Inference-Time Self-Contrastive Steering Elicits Better Conditional Text Embeddings in LLMs.* ACL 2026 (**CCF-A**)
 
-* **[C6]** **Ao Zhou**, Zhiwei Jiang†, Zifeng Cheng, Cong Wang, Yafeng Yin, Shufan Yang, Qing Gu.
+* **[C6]** **Ao Zhou**, Zhiwei Jiang‡, Zifeng Cheng, Cong Wang, Yafeng Yin, Shufan Yang, Qing Gu.
   *Rethinking BCE Loss for Multi-Label Image Recognition with Fine-tuning.* CVPR 2026 (**CCF-A**)
 
-* **[C5]** **Ao Zhou***, Zibo Gu *, Tenghao Sun *, Jiawen Chen *, Mingsheng Tu, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang†, Qing Gu.
+* **[C5]** **Ao Zhou***, Zibo Gu† Tenghao Sun†, Jiawen Chen†, Mingsheng Tu, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang‡, Qing Gu.
   *Hierarchical Vision-Language Reasoning for Multimodal Multiple-Choice Question Answering.* ACM MM 2025 (**CCF-A**)
 
-* **[C4]** **Ao Zhou***, Mingsheng Tu *, Luping Wang, Tenghao Sun, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang†, Qing Gu.
+* **[C4]** **Ao Zhou***, Mingsheng Tu†, Luping Wang, Tenghao Sun, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang‡, Qing Gu.
   *Cross-Modal Prototype Augmentation and Dual-Grained Prompt Learning for Social Media Popularity Prediction.* ACM MM 2025 (**CCF-A**)
 
-* **[C3]** **Ao Zhou**, Bin Liu†, Jin Wang, Grigorios Tsoumakas.
+* **[C3]** **Ao Zhou**, Bin Liu‡, Jin Wang, Grigorios Tsoumakas.
   *Batch Selection for Multi-Label Classification Guided by Uncertainty and Dynamic Label Correlations.* AAAI 2025 (**CCF-A**)
 
-* **[C2]** **Ao Zhou**, Bin Liu†, Jin Wang, Zhaoyang Peng, Grigorios Tsoumakas.
+* **[C2]** **Ao Zhou**, Bin Liu‡, Jin Wang, Zhaoyang Peng, Grigorios Tsoumakas.
   *Multi-Label Adaptive Batch Selection by Highlighting Hard and Imbalanced Samples.* ECML-PKDD 2024 (**CCF-B**)
 
-* **[C1]** **Ao Zhou**, Bin Liu†, Jin Wang, Kaiwei Sun, Kelin Liu.
+* **[C1]** **Ao Zhou**, Bin Liu‡, Jin Wang, Kaiwei Sun, Kelin Liu.
   *AEMLO: AutoEncoder-Guided Multi-Label Oversampling.* ECML-PKDD 2024 (**CCF-B**)
 
 ---
@@ -139,7 +139,7 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 - **Ao Zhou** et.al. Beyond Independent UGC: A Sequential Framework for Robust Social Media Popularity Prediction
 
 ---
-####  <sup>‡</sup> Equal contribution &nbsp;&nbsp; <sup>†</sup> Corresponding author
+####  <sup>†</sup> Equal contribution &nbsp;&nbsp; <sup>‡</sup> Corresponding author
 
 <!-- 
 ### 专利

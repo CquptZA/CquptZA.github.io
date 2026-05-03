@@ -122,11 +122,9 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 
 ### Journal
 
-- **[J2]** Zechen Sun, Yuyang Sun, Zhaochen Su, Zecheng Tang, Juntao Li, **Ao Zhou**, Wenliang Chen, Min Zhang.
-- Data Foundations of Long-Context Language Models: A Survey, *Transactions of the Association for Computational Linguistics[J] (TACL)*, 2026. (**CCF-B**)
+- **[J2]** Zechen Sun, Yuyang Sun, Zhaochen Su, Zecheng Tang, Juntao Li, **Ao Zhou**, Wenliang Chen, Min Zhang. Data Foundations of Long-Context Language Models: A Survey, *Transactions of the Association for Computational Linguistics[J] (TACL)*, 2026. (**CCF-B,JCR-Q1**)
   
-- **[J1]** Bin Liu,**Ao Zhou**, Bingkun Wei, Jin Wang, Grigorios Tsoumakas. Oversampling multi-label data based on natural neighbor and label correlation.
-- *Expert Systems with Applications[J] (ESWA)*, 2024. (**CCF-C,JCR-Q1,中科院1区**)
+- **[J1]** Bin Liu,**Ao Zhou**, Bingkun Wei, Jin Wang, Grigorios Tsoumakas. Oversampling multi-label data based on natural neighbor and label correlation. *Expert Systems with Applications[J] (ESWA)*, 2024. (**CCF-C,JCR-Q1**)
 
 
   

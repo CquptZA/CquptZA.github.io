@@ -91,13 +91,13 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 
 ---
 
-* **[C8]** Qiru Li, **Ao Zhou** *, Zhiwei Jiang†, Zifeng Cheng, Cong Wang, Yafeng Yin, Qing Gu.
+* **[C9]** Qiru Li, **Ao Zhou** *, Zhiwei Jiang†, Zifeng Cheng, Cong Wang, Yafeng Yin, Qing Gu.
   *Multi-Label Test-Time Adaptation with Bayesian Conditional Priors.* ICML 2026 (**CCF-A**)
 
-* **[C7]** Shufan Yang, Zifeng Cheng, Zhiwei Jiang, Qingfeng Qi, Yafeng Yin, Cong Wang, **Ao Zhou**, Qing Gu.
+* **[C8]** Shufan Yang, Zifeng Cheng, Zhiwei Jiang, Qingfeng Qi, Yafeng Yin, Cong Wang, **Ao Zhou**, Qing Gu.
   *AEA: Adaptive Expert Allocation Improves Sentence Embeddings from Mixture-of-Experts LLM.* ACL 2026 (**CCF-A**)
 
-* **[C6]** Zifeng Cheng, Lingyun Qian, Zhiwei Jiang, Cong Wang, Yafeng Yin, Fei Shen, **Ao Zhou**, Qing Gu.
+* **[C7]** Zifeng Cheng, Lingyun Qian, Zhiwei Jiang, Cong Wang, Yafeng Yin, Fei Shen, **Ao Zhou**, Qing Gu.
   *Focusing Condition: Inference-Time Self-Contrastive Steering Elicits Better Conditional Text Embeddings in LLMs.* ACL 2026 (**CCF-A**)
 
 * **[C6]** **Ao Zhou**, Zhiwei Jiang†, Zifeng Cheng, Cong Wang, Yafeng Yin, Shufan Yang, Qing Gu.

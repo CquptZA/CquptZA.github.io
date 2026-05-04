@@ -91,31 +91,33 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 
 ---
 
-**[C9]** Qiru Li, **Ao Zhou**†, Zhiwei Jiang‡, Zifeng Cheng, Cong Wang, Yafeng Yin, Qing Gu.  *Multi-Label Test-Time Adaptation with Bayesian Conditional Priors.*  <span style="color:red">ICML 2026</span> (<span style="color:blue">CCF-A</span>)
+- **[C9]** Qiru Li, **Ao Zhou**†, Zhiwei Jiang‡, Zifeng Cheng, Cong Wang, Yafeng Yin, Qing Gu.  *Multi-Label Test-Time Adaptation with Bayesian Conditional Priors.*  <span style="color:red">ICML 2026</span> (<span style="color:blue">CCF-A</span>)
 
-**[C8]** Shufan Yang, Zifeng Cheng‡, Zhiwei Jiang‡, Qingfeng Qi, Yafeng Yin, Cong Wang, **Ao Zhou**, Qing Gu.  *AEA: Adaptive Expert Allocation Improves Sentence Embeddings from Mixture-of-Experts LLM.*  <span style="color:red">ACL 2026</span> (<span style="color:blue">CCF-A</span>)
+- **[C8]** Shufan Yang, Zifeng Cheng‡, Zhiwei Jiang‡, Qingfeng Qi, Yafeng Yin, Cong Wang, **Ao Zhou**, Qing Gu.  *AEA: Adaptive Expert Allocation Improves Sentence Embeddings from Mixture-of-Experts LLM.*  <span style="color:red">ACL 2026</span> (<span style="color:blue">CCF-A</span>)
 
-**[C7]** Zifeng Cheng, Lingyun Qian, Zhiwei Jiang‡, Cong Wang, Yafeng Yin, Fei Shen, **Ao Zhou**, Qing Gu.  *Focusing Condition: Inference-Time Self-Contrastive Steering Elicits Better Conditional Text Embeddings in LLMs.*  <span style="color:red">ACL 2026</span> (<span style="color:blue">CCF-A</span>)
+- **[C7]** Zifeng Cheng, Lingyun Qian, Zhiwei Jiang‡, Cong Wang, Yafeng Yin, Fei Shen, **Ao Zhou**, Qing Gu.  *Focusing Condition: Inference-Time Self-Contrastive Steering Elicits Better Conditional Text Embeddings in LLMs.*  <span style="color:red">ACL 2026</span> (<span style="color:blue">CCF-A</span>)
 
-**[C6]** **Ao Zhou**, Zhiwei Jiang‡, Zifeng Cheng, Cong Wang, Yafeng Yin, Shufan Yang, Qing Gu.  *Rethinking BCE Loss for Multi-Label Image Recognition with Fine-tuning.*  <span style="color:red">CVPR 2026</span> (<span style="color:blue">CCF-A</span>)
+- **[C6]** **Ao Zhou**, Zhiwei Jiang‡, Zifeng Cheng, Cong Wang, Yafeng Yin, Shufan Yang, Qing Gu.  *Rethinking BCE Loss for Multi-Label Image Recognition with Fine-tuning.*  <span style="color:red">CVPR 2026</span> (<span style="color:blue">CCF-A</span>)
 
-**[C5]** **Ao Zhou***, Zibo Gu†, Tenghao Sun†, Jiawen Chen†, Mingsheng Tu, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang‡, Qing Gu.  *Hierarchical Vision-Language Reasoning for Multimodal Multiple-Choice Question Answering.*  <span style="color:red">ACM MM 2025</span> (<span style="color:blue">CCF-A</span>)
+- **[C5]** **Ao Zhou***, Zibo Gu†, Tenghao Sun†, Jiawen Chen†, Mingsheng Tu, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang‡, Qing Gu.  *Hierarchical Vision-Language Reasoning for Multimodal Multiple-Choice Question Answering.*  <span style="color:red"> MM 2025</span> (<span style="color:blue">CCF-A</span>)
 
-**[C4]** **Ao Zhou***, Mingsheng Tu†, Luping Wang, Tenghao Sun, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang‡, Qing Gu.  *Cross-Modal Prototype Augmentation and Dual-Grained Prompt Learning for Social Media Popularity Prediction.*  <span style="color:red">ACM MM 2025</span> (<span style="color:blue">CCF-A</span>)
+- **[C4]** **Ao Zhou***, Mingsheng Tu†, Luping Wang, Tenghao Sun, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang‡, Qing Gu.  *Cross-Modal Prototype Augmentation and Dual-Grained Prompt Learning for Social Media Popularity Prediction.*  <span style="color:red"> MM 2025</span> (<span style="color:blue">CCF-A</span>)
 
-**[C3]** **Ao Zhou**, Bin Liu‡, Jin Wang, Grigorios Tsoumakas.  *Batch Selection for Multi-Label Classification Guided by Uncertainty and Dynamic Label Correlations.*  <span style="color:red">AAAI 2025</span> (<span style="color:blue">CCF-A</span>)
+- **[C3]** **Ao Zhou**, Bin Liu‡, Jin Wang, Grigorios Tsoumakas.  *Batch Selection for Multi-Label Classification Guided by Uncertainty and Dynamic Label Correlations.*  <span style="color:red">AAAI 2025</span> (<span style="color:blue">CCF-A</span>)
 
-**[C2]** **Ao Zhou**, Bin Liu‡, Jin Wang, Zhaoyang Peng, Grigorios Tsoumakas.  *Multi-Label Adaptive Batch Selection by Highlighting Hard and Imbalanced Samples.*  <span style="color:red">ECML-PKDD 2024</span> (<span style="color:blue">CCF-B</span>)
+- **[C2]** **Ao Zhou**, Bin Liu‡, Jin Wang, Zhaoyang Peng, Grigorios Tsoumakas.  *Multi-Label Adaptive Batch Selection by Highlighting Hard and Imbalanced Samples.*  <span style="color:red">ECML-PKDD 2024</span> (<span style="color:blue">CCF-B</span>)
 
-**[C1]** **Ao Zhou**, Bin Liu‡, Jin Wang, Kaiwei Sun, Kelin Liu.  *AEMLO: AutoEncoder-Guided Multi-Label Oversampling.*  <span style="color:red">ECML-PKDD 2024</span> (<span style="color:blue">CCF-B</span>)
+- **[C1]** **Ao Zhou**, Bin Liu‡, Jin Wang, Kaiwei Sun, Kelin Liu.  *AEMLO: AutoEncoder-Guided Multi-Label Oversampling.*  <span style="color:red">ECML-PKDD 2024</span> (<span style="color:blue">CCF-B</span>)
 
 ---
 
 ### Journal
 
-- **[J2]** Zechen Sun, Yuyang Sun, Zhaochen Su, Zecheng Tang, Juntao Li, **Ao Zhou**, Wenliang Chen, Min Zhang. Data Foundations of Long-Context Language Models: A Survey, *Transactions of the Association for Computational Linguistics[J] (TACL)*, 2026. (**CCF-B,JCR-Q1**)
+- **[J2]** Zechen Sun, Yuyang Sun, Zhaochen Su, Zecheng Tang, Juntao Li, **Ao Zhou**, Wenliang Chen, Min Zhang. *Data Foundations of Long-Context Language Models: A Survey.*  <span style="color:red"> Transactions of the Association for Computational Linguistics, 2026</span> (<span style="color:blue">JCR-Q1</span>)
+
   
-- **[J1]** Bin Liu,**Ao Zhou**, Bingkun Wei, Jin Wang, Grigorios Tsoumakas. Oversampling multi-label data based on natural neighbor and label correlation. *Expert Systems with Applications[J] (ESWA)*, 2024. (**CCF-C,JCR-Q1**)
+- **[J1]** Bin Liu,**Ao Zhou**, Bingkun Wei, Jin Wang, Grigorios Tsoumakas. Oversampling multi-label data based on natural neighbor and label correlation. <span style="color:red"> Expert Systems with Applications, 2024</span> (<span style="color:blue">JCR-Q1</span>)
+
 
 
   

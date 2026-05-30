@@ -91,8 +91,9 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 
 
 ---
-
-- **[C9]** Qiru Li, **Ao Zhou**†, Zhiwei Jiang‡, Zifeng Cheng, Cong Wang, Yafeng Yin, Qing Gu.  *Multi-Label Test-Time Adaptation with Bayesian Conditional Priors.*  <span style="color:red">ICML 2026</span> (<span style="color:blue">CCF-A</span>)
+- **[C10]** Bin Liu, Jun Wu, Haoyu Peng, Ao Zhou‡ , Jin Wang, Qiaosong Chen, Grigorios Tsoumakas. *Addressing imbalance in multi-label data via label-specific distance-based oversampling.* <span style="color:red">ECML-PKDD 2024</span> (<span style="color:blue">CCF-B</span>)
+  
+- **[C9]** Qiru Li, **Ao Zhou**†, Zhiwei Jiang‡, Zifeng Cheng, Cong Wang, Yafeng Yin, Qing Gu. *Multi-Label Test-Time Adaptation with Bayesian Conditional Priors.*  <span style="color:red">ICML 2026</span> (<span style="color:blue">CCF-A</span>)
 
 - **[C8]** Shufan Yang, Zifeng Cheng‡, Zhiwei Jiang‡, Qingfeng Qi, Yafeng Yin, Cong Wang, **Ao Zhou**, Qing Gu.  *AEA: Adaptive Expert Allocation Improves Sentence Embeddings from Mixture-of-Experts LLM.*  <span style="color:red">ACL 2026</span> (<span style="color:blue">CCF-A</span>)
 

@@ -151,7 +151,7 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 荣誉奖项
+# 🏅 Honors and Awards
 - *2026* TAAC-KDD Cup 腾讯广告算法大赛50强
 - *2025*《人民日报》国家奖学金获奖学生代表名录
 - *2024* 第十九届挑战杯全国大学生课外学术作品竞赛揭榜挂帅专项赛 特等奖 (Top 5 team)
@@ -166,7 +166,7 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 
 <span class='anchor' id='-xshy'></span>
 
-# 🏛️ 学术会议
+# 🏛️ Social
 
 - *2026.06*, CVPR 2026  美国-丹佛 poster
 - *2025.10*, MM 2025  爱尔兰-都柏林 oral
@@ -174,7 +174,8 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 - *2024.10*, ECML-PKDD 2024 立陶宛-维尔纽斯 oral
 
 <span class='anchor' id='-sgr'></span>
-# 📖 学术服务
+
+# 📖 Reviewer
 NeurIPS 2026 CVPR 2026 AAAI 2026 ICME 2026
 
 <span class='anchor' id='-gzsx'></span>

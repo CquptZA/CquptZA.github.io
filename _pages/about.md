@@ -101,9 +101,9 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 
 - **[C6]** **Ao Zhou**, Zhiwei Jiang‡, Zifeng Cheng, Cong Wang, Yafeng Yin, Shufan Yang, Qing Gu.  *Rethinking BCE Loss for Multi-Label Image Recognition with Fine-tuning.*  <span style="color:red">CVPR 2026</span> (<span style="color:blue">CCF-A</span>)
 
-- **[C5]** **Ao Zhou***, Zibo Gu†, Tenghao Sun†, Jiawen Chen†, Mingsheng Tu, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang‡, Qing Gu.  *Hierarchical Vision-Language Reasoning for Multimodal Multiple-Choice Question Answering.*  <span style="color:red"> MM 2025</span> (<span style="color:blue">CCF-A</span>)
+- **[C5]** **Ao Zhou***, Zibo Gu, Tenghao Sun, Jiawen Chen, Mingsheng Tu, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang‡, Qing Gu.  *Hierarchical Vision-Language Reasoning for Multimodal Multiple-Choice Question Answering.*  <span style="color:red"> MM 2025</span> (<span style="color:blue">CCF-A</span>)
 
-- **[C4]** **Ao Zhou***, Mingsheng Tu†, Luping Wang, Tenghao Sun, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang‡, Qing Gu.  *Cross-Modal Prototype Augmentation and Dual-Grained Prompt Learning for Social Media Popularity Prediction.*  <span style="color:red"> MM 2025</span> (<span style="color:blue">CCF-A</span>)
+- **[C4]** **Ao Zhou***, Mingsheng Tu, Luping Wang, Tenghao Sun, Zifeng Cheng, Yafeng Yin, Zhiwei Jiang‡, Qing Gu.  *Cross-Modal Prototype Augmentation and Dual-Grained Prompt Learning for Social Media Popularity Prediction.*  <span style="color:red"> MM 2025</span> (<span style="color:blue">CCF-A</span>)
 
 - **[C3]** **Ao Zhou**, Bin Liu‡, Jin Wang, Grigorios Tsoumakas.  *Batch Selection for Multi-Label Classification Guided by Uncertainty and Dynamic Label Correlations.*  <span style="color:red">AAAI 2025</span> (<span style="color:blue">CCF-A</span>)
 

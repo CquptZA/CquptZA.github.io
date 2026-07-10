@@ -52,6 +52,7 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 
 # 📰 News
 
+- *2026.05* 🎉🎉 Three works accepted to *MM* 2026!
 - *2026.05* 🎉🎉 One work accepted to *ECML-PKDD* 2026!
 - *2026.05* 🎉🎉 One work accepted to *ICML* 2026!
 - *2026.04* 🎉🎉 Two collaborative works accepted to *ACL* 2026!
@@ -91,6 +92,8 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 
 
 ---
+- **[C11]** **Ao Zhou**, Zhiwei Jiang‡, Zifeng Cheng, Cong Wang, Shufan Yang, Haoru Chen, Qing Gu.  *Dynamic Distribution-Aware Uncertainty Tracking in Vision-Language Representation Learning.*  <span style="color:red">MM 2026</span> (<span style="color:blue">CCF-A</span>)
+- 
 - **[C10]** Bin Liu, Jun Wu, Haoyu Peng, **Ao Zhou**‡ , Jin Wang, Qiaosong Chen, Grigorios Tsoumakas. *Addressing imbalance in multi-label data via label-specific distance-based oversampling.* <span style="color:red">ECML-PKDD 2026</span> (<span style="color:blue">CCF-B</span>)
   
 - **[C9]** Qiru Li, **Ao Zhou**†, Zhiwei Jiang‡, Zifeng Cheng, Cong Wang, Yafeng Yin, Qing Gu. *Multi-Label Test-Time Adaptation with Bayesian Conditional Priors.*  <span style="color:red">ICML 2026</span> (<span style="color:blue">CCF-A</span>)

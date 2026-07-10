@@ -94,7 +94,7 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 ---
 
 - **[C11]** **Ao Zhou**, Zhiwei Jiang‡, Haoru Chen, Yixiong Wang, Qing Gu.  *Beyond Independent UGC: A Sequential Framework for Robust Social Media Popularity Prediction.*  <span style="color:red">MM 2026</span> (<span style="color:blue">CCF-A</span>)
-- 
+  
 - **[C11]** **Ao Zhou**, Zhiwei Jiang‡, Zifeng Cheng, Cong Wang, Shufan Yang, Haoru Chen, Qing Gu.  *Dynamic Distribution-Aware Uncertainty Tracking in Vision-Language Representation Learning.*  <span style="color:red">MM 2026</span> (<span style="color:blue">CCF-A</span>)
 
 - **[C10]** Bin Liu, Jun Wu, Haoyu Peng, **Ao Zhou**‡ , Jin Wang, Qiaosong Chen, Grigorios Tsoumakas. *Addressing imbalance in multi-label data via label-specific distance-based oversampling.* <span style="color:red">ECML-PKDD 2026</span> (<span style="color:blue">CCF-B</span>)

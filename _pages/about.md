@@ -52,7 +52,7 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 
 # 📰 News
 
-- *2026.07* 🎉🎉 Three works accepted to *MM* 2026!
+- *2026.07* 🎉🎉 One work accepted to *MM* 2026!
 - *2026.05* 🎉🎉 One work accepted to *ECML-PKDD* 2026!
 - *2026.05* 🎉🎉 One work accepted to *ICML* 2026!
 - *2026.04* 🎉🎉 Two collaborative works accepted to *ACL* 2026!
@@ -92,8 +92,9 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 
 
 ---
-
+<!-- 
 - **[C12]** **Ao Zhou**, Zhiwei Jiang‡, Haoru Chen, Yixiong Wang, Qing Gu.  *Beyond Independent UGC: A Sequential Framework for Robust Social Media Popularity Prediction.*  <span style="color:red">MM 2026</span> (<span style="color:blue">CCF-A</span>)
+-->
   
 - **[C11]** **Ao Zhou**, Zhiwei Jiang‡, Zifeng Cheng, Cong Wang, Shufan Yang, Haoru Chen, Qing Gu.  *Dynamic Distribution-Aware Uncertainty Tracking in Vision-Language Representation Learning.*  <span style="color:red">MM 2026</span> (<span style="color:blue">CCF-A</span>)
 

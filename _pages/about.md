@@ -115,14 +115,16 @@ Additionally, my MBTI is ISFP. My favorite singer is [Jay Chou](https://www.inst
 
 - **[C1]** **Ao Zhou**, Bin Liu‡, Jin Wang, Kaiwei Sun, Kelin Liu.  *AEMLO: AutoEncoder-Guided Multi-Label Oversampling.*  <span style="color:red">ECML-PKDD 2024</span> (<span style="color:blue">CCF-B</span>)
 
+- **[C0]** Bin Liu, Siqi Wu, Jin Wang, Xin Deng, **Ao Zhou**. *HiGraphDTI: Hierarchical Graph Representation Learning for Drug-Target Interaction Prediction.*  <span style="color:red">ECML-PKDD 2024</span> (<span style="color:blue">CCF-B</span>)
+
 ---
 
 ### Journal
 
-- **[J2]** Zechen Sun, Yuyang Sun, Zhaochen Su, Zecheng Tang, Juntao Li, **Ao Zhou**, Wenliang Chen, Min Zhang. *Data Foundations of Long-Context Language Models: A Survey.*  <span style="color:red"> Transactions of the Association for Computational Linguistics, 2026</span> (<span style="color:blue">JCR-Q1</span>)
+- **[J1]** Zechen Sun, Yuyang Sun, Zhaochen Su, Zecheng Tang, Juntao Li, **Ao Zhou**, Wenliang Chen, Min Zhang. *Data Foundations of Long-Context Language Models: A Survey.*  <span style="color:red"> Transactions of the Association for Computational Linguistics, 2026</span> (<span style="color:blue">JCR-Q1</span>)
 
   
-- **[J1]** Bin Liu,**Ao Zhou**, Bingkun Wei, Jin Wang, Grigorios Tsoumakas. Oversampling multi-label data based on natural neighbor and label correlation. <span style="color:red"> Expert Systems with Applications, 2024</span> (<span style="color:blue">JCR-Q1</span>)
+- **[J0]** Bin Liu,**Ao Zhou**, Bingkun Wei, Jin Wang, Grigorios Tsoumakas. Oversampling multi-label data based on natural neighbor and label correlation. <span style="color:red"> Expert Systems with Applications, 2024</span> (<span style="color:blue">JCR-Q1</span>)
 
 
 
